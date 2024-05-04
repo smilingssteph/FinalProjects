@@ -1,0 +1,1002 @@
+Experiment,College,College_Abbrev,Town,County,State,Latitude,Longitude,Treatment,Preexisting_College,Politics,Existing_Site,Auction,Weather,Other,Year_Experiment,Year_Founded,Year_First_Class,Year_First_Graduates,Public,State_Flagship,Land_Grant,Technical_School,Normal_School,HBCU,Womens_College,Military_Academy,Loser_Receive_Consolation,Consolation_Prize,Value_Consolation,Value_State_Grant,Value_Local_Contribution,Local_Donate_Building,Votes_Received,Number of Ballots,Experiment_Quality
+AlAMU,Alabama Agricultural and Mechanical University,AlAMU,Huntsville,Madison,Alabama,34.73,-86.585,1,1,1,,,,,1891,1875,1892,,1,,,,,1,,,,,,,,,,1,2
+AlAMU,Alabama Agricultural and Mechanical University,AlAMU,Montgomery,Montgomery,Alabama,32.361667,-86.279167,0,1,1,,,,,1891,1875,1892,,1,,,,,1,,,,,,,,,,1,2
+AlAMU,Alabama Agricultural and Mechanical University,AlAMU,Tuskeegee,Macon,Alabama,32.431389,-85.706667,0,1,1,,,,,1891,1875,1892,,1,,,,,1,,,,,,,,,,,1
+AubU,Auburn University,AubU,Auburn,Lee,Alabama,32.597778,-85.480833,1,1,,1,,,,1872,1856,1859,,1,,1,,,,,,,,,,,1,,,2
+AubU,Auburn University,AubU,Florence,Lauderdale,Alabama,34.820278,-87.662778,0,1,,1,,,,1872,1856,1859,,1,,1,,,,,,,,,,50000,1,,,2
+AubU,Auburn University,AubU,Talladega,Talladega,Alabama,33.434722,-86.101389,0,,,1,,,,1872,1856,1859,,1,,1,,,,,,,,,,,,,,1
+AubU,Auburn University,AubU,Tuscaloosa,Tuscaloosa,Alabama,33.206667,-87.534722,0,1,,1,,,,1872,1856,1859,,1,,1,,,,,,,,,,,1,,,2
+LGMA,La Grange Military Academy,LGMA,La Grange,Franklin,Alabama,,,1,,,,,,1,1855,1830,1830,,,,,,,,,1,,,,,,,,,1
+LGMA,La Grange Military Academy,LGMA,Florence,Lauderdale,Alabama,34.820278,-87.662778,0,,,,,,1,1855,1830,1830,,,,,,,,,1,,,,,,,,,1
+TallC,Talladega College,TallC,Talladega,Talladega,Alabama,33.434722,-86.101389,1,,,1,,,,1866,1866,1867,,,,,,,1,,,,,,,,,,,1
+TallC,Talladega College,TallC,Selma,Dallas,Alabama,32.416389,-87.024722,0,,,1,,,,1866,1866,1867,,,,,,,1,,,,,,,,,,,1
+TallC,Talladega College,TallC,Montgomery,Montgomery,Alabama,32.361667,-86.279167,0,,,1,,,,1866,1866,1867,,,,,,,1,,,,,,,,,,,1
+TallC,Talladega College,TallC,Mobile,Mobile,Alabama,30.694444,-88.043056,0,,,1,,,,1866,1866,1867,,,,,,,1,,,,,,,,,,,1
+UAl,University of Alabama,UAl,Tuscaloosa,Tuscaloosa,Alabama,33.206667,-87.534722,1,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,2
+UAl,University of Alabama,UAl,Montevallo,Shelby,Alabama,33.105,-86.862778,0,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,2
+UAl,University of Alabama,UAl,Lagrange,Franklin,Alabama,,,0,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,2
+UAl,University of Alabama,UAl,Athens,Limestone,Alabama,34.789722,-86.969444,0,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,2
+UAl,University of Alabama,UAl,Bellfont,Jackson,Alabama,34.711111,-85.945278,0,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,2
+UAl,University of Alabama,UAl,Gage's,Perry,Alabama,33.2454,-86.0008,0,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,1
+UAl,University of Alabama,UAl,Greensborough,Greene,Alabama,32.702222,-87.596111,0,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,1
+UAl,University of Alabama,UAl,Honeycomb Springs,Jackson,Alabama,,,0,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,1
+UAl,University of Alabama,UAl,Somerville,Morgan,Alabama,34.47,-86.798889,0,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,1
+UAl,University of Alabama,UAl,Moulton,Lawrence,Alabama,34.482222,-87.285556,0,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,1
+UAl,University of Alabama,UAl,Davis,Autauga,Alabama,,,0,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,1
+UAl,University of Alabama,UAl,Greenville,Butler,Alabama,31.831111,-86.6275,0,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,1
+UAl,University of Alabama,UAl,Elyton,Jefferson,Alabama,33.5015,-86.8408,0,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,1
+UAl,University of Alabama,UAl,Village Springs,Blount,Alabama,,,0,,,,1,,,1827,1818,1831,,1,1,,,,,,,,,,,,,,,1
+UAkF,University of Alaska Fairbanks,UAkF,Fairbanks,Fairbanks North Star,Alaska,64.843611,-147.723056,1,,,1,,,,1917,1917,1922,1923,1,1,1,,,,,,,,,,,,,,1
+UAkF,University of Alaska Fairbanks,UAkF,Seward,Kenai Peninsula,Alaska,60.124444,-149.433333,0,,1,1,,,,1917,1917,1922,1923,1,1,1,,,,,,,,,,,,,,1
+UAkF,University of Alaska Fairbanks,UAkF,Kenai,Kenai Peninsula,Alaska,60.558611,-151.229722,0,,,1,,,,1917,1917,1922,1923,1,1,1,,,,,,,,,,,,,,1
+UAkF,University of Alaska Fairbanks,UAkF,Kodiak,Kodiak Island,Alaska,57.793056,-152.394167,0,,,1,,,,1917,1917,1922,1923,1,1,1,,,,,,,,,,,,,,1
+UAkF,University of Alaska Fairbanks,UAkF,Sitka,Sitka,Alaska,57.051561,-135.338642,0,,,1,,,,1917,1917,1922,1923,1,1,1,,,,,,,,,,,,,,1
+UAkF,University of Alaska Fairbanks,UAkF,Cooper Center,Valdez-Cordova Census Area,Alaska,61.965278,-145.318333,0,,,1,,,,1917,1917,1922,1923,1,1,1,,,,,,,,,,,,,,1
+UAkF,University of Alaska Fairbanks,UAkF,Rampart,Yukon-Koyukuk Census Area,Alaska,65.507222,-150.148611,0,,,1,,,,1917,1917,1922,1923,1,1,1,,,,,,,,,,,,,,1
+AzSU,Arizona State University,AzSU,Tempe,Maricopa,Arizona,33.412778,-111.943056,1,,1,,,1,,1885,1885,1891,,1,1,,,,,,,1,Normal School,,5000,,,,,2
+AzSU,Arizona State University,AzSU,Phoenix,Maricopa,Arizona,33.45,-112.066667,0,,1,,,1,,1885,1885,1891,,1,1,,,,,,,1,Asylum,,100000,,,,,2
+AzSU,Arizona State University,AzSU,Florence,Pinal,Arizona,33.038611,-111.386944,0,,1,,,1,,1885,1885,1891,,1,1,,,,,,,1,Bridge,,12000,,,,,2
+AzSU,Arizona State University,AzSU,Tucson,Pima,Arizona,32.221667,-110.926389,0,,1,,,1,,1885,1885,1891,,1,1,,,,,,,1,Public University,,2500,,,,,2
+AzSU,Arizona State University,AzSU,Yuma,Yuma,Arizona,32.692222,-114.615278,0,,1,,,1,,1885,1885,1891,,1,1,,,,,,,1,Penitentiary,,,,,,,1
+AzSU,Arizona State University,AzSU,Prescott,Yavapai,Arizona,34.54,-112.468611,0,,1,,,1,,1885,1885,1891,,1,,1,,,,,,1,Capital,,,,,,,1
+UAz,University of Arizona,UAz,Tucson,Pima,Arizona,32.221667,-110.926389,1,,1,,,1,,1885,1885,1891,,1,,1,,,,,,1,Public University,,25000,,,,,2
+UAz,University of Arizona,UAz,Phoenix,Maricopa,Arizona,33.45,-112.066667,0,,1,,,1,,1885,1885,1891,,1,,1,,,,,,1,Asylum,,100000,,,,,2
+UAz,University of Arizona,UAz,Florence,Pinal,Arizona,33.038611,-111.386944,0,,1,,,1,,1885,1885,1891,,1,,1,,,,,,1,Bridge,,12000,,,,,2
+UAz,University of Arizona,UAz,Tempe,Maricopa,Arizona,33.412778,-111.943056,0,,1,,,1,,1885,1885,1891,,1,,1,,,,,,1,Normal School,,5000,,,,,2
+UAz,University of Arizona,UAz,Yuma,Yuma,Arizona,32.692222,-114.615278,0,,1,,,1,,1885,1885,1891,,1,,1,,,,,,1,Penitentiary,,,,,,,1
+UAz,University of Arizona,UAz,Prescott,Yavapai,Arizona,34.54,-112.468611,0,,1,,,1,,1885,1885,1891,,1,,1,,,,,,1,Capital,,,,,,,1
+ArTU,Arkansas Tech University,ArTU,Russellville,Pope,Arkansas,35.278333,-93.136944,1,,,,1,,,1910,1909,1910,,1,,,1,,,,,,,,,40000,,3,1,2
+ArTU,Arkansas Tech University,ArTU,Fort Smith,Sebastian,Arkansas,35.368611,-94.398611,0,,,,1,,,1910,1909,1910,,1,,,1,,,,,,,,,40000,,0,1,2
+ArTU,Arkansas Tech University,ArTU,Ozark,Franklin,Arkansas,35.492778,-93.837222,0,,,,1,,,1910,1909,1910,,1,,,1,,,,,,,,,40000,,1,1,2
+ArTU,Arkansas Tech University,ArTU,Morrilton,Conway,Arkansas,35.156389,-92.741944,0,,,,1,,,1910,1909,1910,,1,,,1,,,,,,,,,46000,,1,1,2
+ArTU,Arkansas Tech University,ArTU,Atkins,Pope,Arkansas,35.243611,-92.938333,0,,,,1,,,1910,1909,1910,,1,,,1,,,,,,,,,30000,,0,1,1
+SArU,Southern Arkansas University,SArU,Magnolia,Columbia,Arkansas,33.274167,-93.233611,1,,,,1,,,1910,1909,1910,,1,,,,,,,,,,,,35000,,3,8,2
+SArU,Southern Arkansas University,SArU,Hope,Hempstead,Arkansas,33.667778,-93.59,0,,,,1,,,1910,1909,1910,,1,,,,,,,,,,,,,,2,8,2
+SArU,Southern Arkansas University,SArU,Mena,Polk,Arkansas,34.582222,-94.239167,0,,,,1,,,1910,1909,1910,,1,,,,,,,,,,,,40000,,0,8,2
+SArU,Southern Arkansas University,SArU,Camden,Ouachita,Arkansas,33.570833,-92.835,0,,,,1,,,1910,1909,1910,,1,,,,,,,,,,,,,,0,8,2
+SArU,Southern Arkansas University,SArU,Stephens,Ouachita,Arkansas,33.415,-93.068333,0,,,,1,,,1910,1909,1910,,1,,,,,,,,,,,,,,0,8,2
+SArU,Southern Arkansas University,SArU,Bingen,Hempstead,Arkansas,33.9756677,-93.7840712,0,,,,1,,,1910,1909,1910,,1,,,,,,,,,,,,,,,,1
+SArU,Southern Arkansas University,SArU,Prescott,Nevada,Arkansas,33.8025,-93.381944,0,,,,1,,,1910,1909,1910,,1,,,,,,,,,,,,,,,,1
+UAr,University of Arkansas,UAr,Fayetteville,Washington,Arkansas,36.076389,-94.160833,1,,,,1,,,1871,1871,1872,,1,1,1,,,,,,,,,50000,125000,,,,2
+UAr,University of Arkansas,UAr,Batesville,Independence,Arkansas,35.773611,-91.641389,0,,,,1,,,1871,1871,1872,,1,1,1,,,,,,,,,50000,69000,,,,2
+UAr,University of Arkansas,UAr,Prairie Grove,Washington,Arkansas,35.976944,-94.316111,0,,,,1,,,1871,1871,1872,,1,1,1,,,,,,,,,50000,123265,,,,2
+AzPacU,Azusa Pacific University,AzPacU,Whittier,Los Angeles,California,33.965556,-118.024444,1,,,1,,,,1899,1900,1900,,,,,,,,,,,,,,,,,,1
+AzPacU,Azusa Pacific University,AzPacU,Berkeley,Alameda,California,37.871667,-122.272778,0,,,1,,,,1899,1900,1900,,,,,,,,,,,,,,,,,,1
+PomoC,Pomona College,PomoC,Claremont,Los Angeles,California,34.11,-117.719722,1,,,1,,,,1888,1887,1888,1894,,,,,,,,,,,,,,,,,1
+PomoC,Pomona College,PomoC,Pomona,Los Angeles,California,34.060833,-117.755833,0,,,1,,,,1888,1887,1888,1894,,,,,,,,,,,,,,,,,1
+PomoC,Pomona College,PomoC,Beaumont,Riverside,California,33.929444,-116.977222,0,,,1,,,,1888,1887,1888,1894,,,,,,,,,,,,,,,,,1
+PomoC,Pomona College,PomoC,Lugonia,San Bernardino,California,34.054722,-117.1825,0,,,1,,,,1888,1887,1888,1894,,,,,,,,,,,,,,,,,1
+StanU,Stanford University,StanU,Palo Alto,Santa Clara,California,37.429167,-122.138056,1,,,1,,,,1885,1885,1891,,,,,,,,,,,,,,,,,,1
+StanU,Stanford University,StanU,Menlo,San Mateo,California,37.452778,-122.183333,0,,,1,,,,1885,1885,1891,,,,,,,,,,,,,,,,,,1
+StanU,Stanford University,StanU,Fremont,Alameda,California,37.548333,-121.988611,0,,,1,,,,1885,1885,1891,,,,,,,,,,,,,,,,,,1
+StanU,Stanford University,StanU,Rancho Esquon,Butte,California,39.605833,-121.766944,0,,,1,,,,1885,1885,1891,,,,,,,,,,,,,,,,,,1
+StanU,Stanford University,StanU,Sacramento,Sacramento,California,38.555556,-121.468889,0,,,1,,,,1885,1885,1891,,,,,,,,,,,,,,,,,,1
+StanU,Stanford University,StanU,Rancho Bosquejo,Tehama,California,39.933611,-122.0525,0,,,1,,,,1885,1885,1891,,,,,,,,,,,,,,,,,,1
+SJSU,San Jose State University,SJSU,San Jose,Santa Clara,California,37.333333,-121.9,1,,,,1,,,1880,1880,1870,,1,,,,1,,,,,,,,,,,,1
+SJSU,San Jose State University,SJSU,Redding,Shasta,California,40.583333,-122.366667,0,,,,1,,,1880,1880,1870,,1,,,,1,,,,,,,,,,,,1
+SJSU,San Jose State University,SJSU,Fresno,Fresno,California,36.75,-119.766667,0,,,,1,,,1880,1880,1870,,1,,,,1,,,,,,,,,,,,1
+SJSU,San Jose State University,SJSU,Santa Rosa,Sonoma,California,38.448611,-122.704722,0,,,,1,,,1880,1880,1870,,1,,,,1,,,,,,,,,,,,1
+SJSU,San Jose State University,SJSU,Los Angeles,Los Angeles,California,34.05,-118.25,0,,,,1,,,1880,1880,1870,,1,,,,1,,,,,,,,,,,,1
+UCaB,University of California Berkeley,UCaB,Berkeley,Alameda,California,37.871667,-122.272778,1,,,,,1,1,1857,1857,1860,,1,1,1,,,,,,,,,,,,,,2
+UCaB,University of California Berkeley,UCaB,Oakland,Alameda,California,37.804444,-122.270833,0,,,,,1,1,1857,1857,1860,,1,1,1,,,,,,,,,,,,,,2
+UCaB,University of California Berkeley,UCaB,San Pablo,Contra Costa,California,37.962222,-122.345556,0,,,,,1,1,1857,1857,1860,,1,1,1,,,,,,,,,,,,,,2
+UCaB,University of California Berkeley,UCaB,Napa,Napa,California,38.304722,-122.298889,0,,,,,1,1,1857,1857,1860,,1,1,1,,,,,,,,,,,,,,2
+UCaB,University of California Berkeley,UCaB,San Jose,Santa Clara,California,37.333333,-121.9,0,,,,,1,1,1857,1857,1860,,1,1,1,,,,,,,,,,,,,,1
+UCaDav,University of California Davis,UCaDav,Davisville,Yolo,California,38.553889,-121.738056,1,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,2
+UCaDav,University of California Davis,UCaDav,Woodland,Yolo,California,38.678611,-121.773333,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,2
+UCaDav,University of California Davis,UCaDav,Walnut Creek,Contra Costa,California,37.906389,-122.065,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,2
+UCaDav,University of California Davis,UCaDav,Suisun,Solano,California,38.245,-122.016944,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,2
+UCaDav,University of California Davis,UCaDav,,Alameda,California,37.65,-121.91,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,1
+UCaDav,University of California Davis,UCaDav,,San Joaquin,California,37.9176,-121.171,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,1
+UCaDav,University of California Davis,UCaDav,,Stanislaus,California,37.56,-120.99,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,1
+UCaDav,University of California Davis,UCaDav,,Merced,California,37.19,-120.71,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,1
+UCaDav,University of California Davis,UCaDav,,Fresno,California,36.75,-119.65,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,1
+UCaDav,University of California Davis,UCaDav,,Butte,California,39.66,-121.6,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,1
+UCaDav,University of California Davis,UCaDav,,Glenn,California,39.59,-122.39,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,1
+UCaDav,University of California Davis,UCaDav,,Santa Clara,California,37.36,-121.97,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,1
+UCaDav,University of California Davis,UCaDav,,Monterey,California,36.24,-121.31,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,1
+UCaDav,University of California Davis,UCaDav,,Santa Cruz,California,37.03,-122.01,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,1
+UCaDav,University of California Davis,UCaDav,,Sonoma,California,38.51,-122.93,0,,,1,1,,,1906,1905,1906,,1,,1,,,,,,,,,389874.77,,,,,1
+UCaSD,University of California San Diego,UCaSD,La Jolla,San Diego,California,32.84,-117.276944,1,,,1,,,1,1905,1956,1960,,1,,1,,,,,,,,,,500,,,,1
+UCaSD,University of California San Diego,UCaSD,San Pedro,Los Angeles,California,33.74,-118.29,0,,,1,,,1,1905,1956,1960,,1,,1,,,,,,,,,,,,,,1
+UCaIrv,University of California Irvine,UCaIrv,Irvine,Orange,California,33.669444,-117.832056,1,,,1,,,,1960,1960,1965,,1,,1,,,,,,,,,,,,,,1
+UCaIrv,University of California Irvine,UCaIrv,,Los Angeles,California,34.3,-118.15,0,,,1,,,,1960,1960,1965,,1,,1,,,,,,,,,,,,,,1
+UCaSCr,University of California Santa Cruz,UCaSCr,Santa Cruz,Santa Cruz,California,36.971944,-122.026389,1,,,1,,,,1961,1960,1965,,1,,1,,,,,,,,,,,,,,1
+UCaSCr,University of California Santa Cruz,UCaSCr,Almaden Valley,Santa Clara,California,37.2214,-121.8622,0,,,1,,,,1961,1960,1965,,1,,1,,,,,,,,,,,,,,1
+UPac1,University of the Pacific,UPac,Santa Clara,Santa Clara,California,37.354444,-121.969167,1,,,1,,,,1851,1851,,1858,,,,,,,,,,,,,,,,,1
+UPac1,University of the Pacific,UPac,San Francisco,San Francisco,California,37.783333,-122.416667,0,,,1,,,,1851,1851,,1858,,,,,,,,,,,,,,,,,1
+UPac1,University of the Pacific,UPac,San Jose,Santa Clara,California,37.333333,-121.9,0,,,1,,,,1851,1851,,1858,,,,,,,,,,,,,,,,,1
+UPac1,University of the Pacific,UPac,Vallejo,Solano,California,38.113056,-122.235833,0,,,1,,,,1851,1851,,1858,,,,,,,,,,,,,,,,,1
+UPac2,University of the Pacific,UPac,San jose,Santa Clara,California,37.333333,-121.9,1,,,1,,,,1867,1851,,,,,,,,,,,,,,,,,,,1
+UPac2,University of the Pacific,UPac,Santa Clara,Santa Clara,California,37.354444,-121.969167,0,,,1,,,,1867,1851,,,,,,,,,,,,,,,,,,,1
+UPac3,University of the Pacific,UPac,Stockton,San Joaquin,California,37.975556,-121.300833,1,,,,1,,,1921,1851,1924,,,,,,,,,,,,,,150000,,,,1
+UPac3,University of the Pacific,UPac,Santa Cruz,Santa Cruz,California,36.971944,-122.026389,0,,,,1,,,1921,1851,1924,,,,,,,,,,,,,,,,,,1
+UPac3,University of the Pacific,UPac,Oakland,Alameda,California,37.804444,-122.270833,0,,,,1,,,1921,1851,1924,,,,,,,,,,,,,,,,,,1
+UPac3,University of the Pacific,UPac,Lodi,San Joaquin,California,38.128889,-121.280833,0,,,,1,,,1921,1851,1924,,,,,,,,,,,,,,,,,,1
+UPac3,University of the Pacific,UPac,Turlock,Stanislaus,California,37.505833,-120.848889,0,,,,1,,,1921,1851,1924,,,,,,,,,,,,,,,,,,1
+UPac3,University of the Pacific,UPac,Modesto,Stanislaus,California,37.661389,-120.994444,0,,,,1,,,1921,1851,1924,,,,,,,,,,,,,,,,,,1
+UPac3,University of the Pacific,UPac,Sacramento,Sacramento,California,38.555556,-121.468889,0,,,,1,,,1921,1851,1924,,,,,,,,,,,,,,,,,,1
+ColorC,Colorado College,ColorC,Colorado Springs,El Paso,Colorado,38.833333,-104.816667,1,,,,1,,,1874,1874,1874,,,,,,,,,,,,,,10000,,,,1
+ColorC,Colorado College,ColorC,Denver,Denver,Colorado,39.76185,-104.881105,0,,,,1,,,1874,1874,1874,,,,,,,,,,,,,,,,,,1
+ColorC,Colorado College,ColorC,Greeley,Weld,Colorado,40.416667,-104.716667,0,,,,1,,,1874,1874,1874,,,,,,,,,,,,,,,,,,1
+CoSU,Colorado State University,CoSU,Fort Collins,Larimer,Colorado,40.559167,-105.078056,1,,1,1,,,,1874,1870,1879,,1,,1,,,,,,,,,1000,,,,,1
+CoSU,Colorado State University,CoSU,Greeley,Weld,Colorado,40.416667,-104.716667,0,,1,1,,,,1874,1870,1879,,1,,1,,,,,,,,,1000,,,,,1
+UCo,University of Colorado,UCo,Boulder,Boulder,Colorado,40.027435,-105.251945,1,,1,,,,,1874,1874,1877,,1,1,,,,,,,1,Public University,,15000,15000,,,,2
+UCo,University of Colorado,UCo,Canon City,Fremont,Colorado,38.441889,-105.220891,0,,1,,,,,1874,1874,1877,,1,1,,,,,,,1,Penitentiary,,15000,,,,,2
+UCo,University of Colorado,UCo,Georgia Gulch,Clear Creek,Colorado,39.4992,-105.9492,0,,1,,,,,1874,1874,1877,,1,1,,,,,,,,,,15000,,,,,1
+UCo,University of Colorado,UCo,Conejos,Conejos,Colorado,37.088611,-106.02,0,,1,,,,,1874,1874,1877,,1,1,,,,,,,,,,15000,,,,,1
+UCo,University of Colorado,UCo,Denver,Denver,Colorado,39.76185,-104.881105,0,,1,,,,,1874,1874,1877,,1,1,,,,,,,,,,15000,,,,,1
+UCo,University of Colorado,UCo,McNulty,Eagle,Colorado,39.3927657,-106.1869671,0,,1,,,,,1874,1874,1877,,1,1,,,,,,,,,,15000,,,,,1
+UCo,University of Colorado,UCo,Golden,Jefferson,Colorado,39.746944,-105.210833,0,,1,,,,,1874,1874,1877,,1,1,,,,,,,,,,15000,,,,,1
+UCo,University of Colorado,UCo,Bradford,Jefferson,Colorado,,,0,,1,,,,,1874,1874,1877,,1,1,,,,,,,,,,15000,,,,,1
+UCo,University of Colorado,UCo,Pueblo,Pueblo,Colorado,38.266944,-104.620278,0,,1,,,,,1874,1874,1877,,1,1,,,,,,,,,,15000,,,,,1
+UCoDe,University of Colorado Denver,UCoDe,Denver,Denver,Colorado,39.76185,-104.881105,1,,,1,,,,1910,1912,1912,,1,,,,,,,,,,,,,,,,1
+UCoDe,University of Colorado Denver,UCoDe,Boulder,Boulder,Colorado,40.027435,-105.251945,0,,,1,,,,1910,1912,1912,,1,,,,,,,,,,,,,,,,1
+WSCoU,Western State Colorado University,WSCoU,Gunnison,Gunnison,Colorado,38.544444,-106.928333,1,,1,,,,,1909,1909,1911,,1,,,,1,,,,,,,50000,,,,,2
+WSCoU,Western State Colorado University,WSCoU,Grand Junction,Mesa,Colorado,39.066667,-108.566667,0,,1,,,,,1909,1909,1911,,1,,,,1,,,,,,,50000,,,,,2
+WSCoU,Western State Colorado University,WSCoU,Glenwood Springs,Garfield,Colorado,39.55,-107.316667,0,,1,,,,,1909,1909,1911,,1,,,,1,,,,,,,50000,,,,,2
+WSCoU,Western State Colorado University,WSCoU,Durango,La Plata,Colorado,37.273267,-107.871692,0,,1,,,,,1909,1909,1911,,1,,,,1,,,,,,,50000,,,,,1
+WSCoU,Western State Colorado University,WSCoU,Montrose,Montrose,Colorado,38.476944,-107.865556,0,,1,,,,,1909,1909,1911,,1,,,,1,,,,,,,50000,,,,,1
+WSCoU,Western State Colorado University,WSCoU,Delta,Delta,Colorado,38.757372,-108.087959,0,,1,,,,,1909,1909,1911,,1,,,,1,,,,,,,50000,,,,,1
+WSCoU,Western State Colorado University,WSCoU,Trinidad,Las Animas,Colorado,37.170833,-104.506389,0,,1,,,,,1909,1909,1911,,1,,,,1,,,,,,,50000,,,,,1
+WSCoU,Western State Colorado University,WSCoU,Pueblo,Pueblo,Colorado,38.266944,-104.620278,0,,1,,,,,1909,1909,1911,,1,,,,1,,,,,,,50000,,,,,1
+TriniC,Trinity College,TriniC,Hartford,Hartford,Connecticut,41.7625,-72.674167,1,,1,,1,,,1824,1823,1824,,,,,,,,,,,,,,20000,,9,1,2
+TriniC,Trinity College,TriniC,Middletown,Middlesex,Connecticut,41.562222,-72.650833,0,,1,,1,,,1824,1823,1824,,,,,,,,,,,,,,,,5,1,2
+TriniC,Trinity College,TriniC,New Haven,New Haven,Connecticut,41.31,-72.923611,0,,1,,1,,,1824,1823,1824,,,,,,,,,,,,,,,,2,1,1
+TriniC,Trinity College,TriniC,New London,New London,Connecticut,41.355556,-72.099444,0,,1,,1,,,1824,1823,1824,,,,,,,,,,,,,,,,0,1,1
+TriniC,Trinity College,TriniC,Wethersfield,Hartford,Connecticut,41.714167,-72.6525,0,,1,,1,,,1824,1823,1824,,,,,,,,,,,,,,,,0,1,1
+UConn,University of Connecticutt,UConn,Storrs,Tolland,Connecticut,41.808333,-72.249444,1,1,1,,,,,1893,1881,,,1,1,1,,,,,,1,Land Grant College,,,,,,,1
+UConn,University of Connecticutt,UConn,New Haven,New Haven,Connecticut,41.31,-72.923611,0,1,1,,,,,1893,1881,,,1,1,1,,,,,,1,Monetary,,154604,,,,,1
+WesU,Wesleyan University,WesU,Middletown,Middlesex,Connecticut,41.562222,-72.650833,1,,,,1,,,1829,1829,1831,,,,,,,,,,,,,,50000,,,,1
+WesU,Wesleyan University,WesU,Bridgeport,Fairfield,Connecticut,41.186389,-73.195556,0,,,,1,,,1829,1829,1831,,,,,,,,,,,,,,,,,,1
+WesU,Wesleyan University,WesU,Troy,Rennselaer,New York,42.731667,-73.6925,0,,,,1,,,1829,1829,1831,,,,,,,,,,,,,,,,,,1
+YaleU,Yale University,YaleU,New Haven,New Haven,Connecticut,41.31,-72.923611,1,,,,1,,,1717,1685,1717,,,,,,,,,,,,,,,,4,4,1
+YaleU,Yale University,YaleU,Hartford,Hartford,Connecticut,41.7625,-72.674167,0,,,,1,,,1717,1685,1717,,,,,,,,,,,,,,,,2,4,1
+YaleU,Yale University,YaleU,Saybrook,Middlesex,Connecticut,41.293889,-72.3825,0,,,,1,,,1717,1685,1717,,,,,,,,,,,,,,,,,4,1
+UDe,University of Delaware,UDe,Newark,New Castle,Delaware,39.683611,-75.749722,1,1,1,,,,,1820,1755,1755,,1,1,1,,,,,,,,,,,,,,1
+UDe,University of Delaware,UDe,Wilmington,New Castle,Delaware,39.745833,-75.546667,0,1,1,,,,,1820,1755,1755,,1,1,1,,,,,,,,,,,,,,1
+UDe,University of Delaware,UDe,New Castle,New Castle,Delaware,39.661944,-75.566389,0,1,1,,,,,1820,1755,1755,,1,1,1,,,,,,,,,,,,,,1
+UDe,University of Delaware,UDe,Dover,Kent,Delaware,39.158056,-75.524444,0,1,1,,,,,1820,1755,1755,,1,1,1,,,,,,,,,,,,,,1
+CathUA,Catholic University of America,CathUA,Brookland,Washington,District of Columbia,38.904722,-77.016389,1,,,1,,,,1885,1885,1889,,,,,,,,,,,,,300000,,,,,1
+CathUA,Catholic University of America,CathUA,South Orange,Essex,New Jersey,40.748811,-74.261513,0,,,1,,,,1885,1885,1889,,,,,,,,,,,,,300000,,,,,1
+FAMU,Florida Agricultural and Mechanical University,FAMU,Tallahassee,Leon,Florida,30.455,-84.253333,1,,1,,,,,1887,1887,1887,,1,,1,,1,1,,,,,,,,,,,1
+FAMU,Florida Agricultural and Mechanical University,FAMU,Gainesville,Alachua,Florida,29.651997,-82.324992,0,,1,,,,,1887,1887,1887,,1,,1,,1,1,,,,,,,,,,,1
+FAMU,Florida Agricultural and Mechanical University,FAMU,Jacksonville,Duval,Florida,30.336944,-81.661389,0,,1,,,,,1887,1887,1887,,1,,1,,1,1,,,,,,,,,,,1
+FAMU,Florida Agricultural and Mechanical University,FAMU,Ocala,Marion,Florida,29.187778,-82.130556,0,,1,,,,,1887,1887,1887,,1,,1,,1,1,,,,,,,,,,,1
+FSC,Florida Southern College,FSC,Lakeland,Polk,Florida,28.041111,-81.958889,1,,,,,1,,1922,1883,,,,,,,,,,,,,,,,,,,1
+FSC,Florida Southern College,FSC,Clearwater Beach,Pinellas,Florida,27.57,-82.48,0,,,,,1,,1922,1883,,,,,,,,,,,,,,,,,,,1
+FSC,Florida Southern College,FSC,Sutherland,Pinellas,Florida,28.083889,-82.753889,0,,,,,1,,1922,1883,,,,,,,,,,,,,,,,,,,1
+FlSU,Florida State University,FlSU,Tallahassee,Leon,Florida,30.455,-84.253333,1,,,,1,,,1857,1857,1857,,1,,,,,,,,,,,,,1,,,1
+FlSU,Florida State University,FlSU,Marianna,Jackson,Florida,30.776389,-85.238056,0,,,,1,,,1857,1857,1857,,1,,,,,,,,,,,,,,,,1
+FlSU,Florida State University,FlSU,Quincy,Gadsden,Florida,30.583333,-84.583333,0,,,,1,,,1857,1857,1857,,1,,,,,,,,,,,,,,,,1
+RollC,Rollins College,RollC,Winter Park,Orange,Florida,28.596111,-81.346667,1,,,,1,,,1885,1885,1886,,,,,,,,,,,,,,115000,,,,1
+RollC,Rollins College,RollC,Mount Dora,Lake,Florida,28.806389,-81.643056,0,,,,1,,,1885,1885,1886,,,,,,,,,,,,,,35000,,,,1
+UCFl,University of Central Florida,UCFl,Orlando,Orange,Florida,28.415833,-81.298889,1,,,,1,,,1963,1963,1967,,1,,,1,,,,,,,,,,,,,1
+UCFl,University of Central Florida,UCFl,South Orange Blossom Trail,Orange,Florida,,,0,,,,1,,,1963,1963,1967,,1,,,1,,,,,,,,,,,,,1
+UCFl,University of Central Florida,UCFl,,Seminole,Florida,28.71,-81.23,0,,,,1,,,1963,1963,1967,,1,,,1,,,,,,,,,,,,,1
+UFl1,University of Florida,UFl,Lake City,Columbia,Florida,30.183333,-82.633333,1,,1,,,,,1883,1883,1884,,1,1,,,,,,,,,,,15000,,,,1
+UFl1,University of Florida,UFl,Eau Gallie,Brevard,Florida,28.129167,-80.63,0,,1,,,,,1883,1883,1884,,1,1,,,,,,,,,,,,1,,,1
+UFl1,University of Florida,UFl,Gainesville,Alachua,Florida,29.651997,-82.324992,0,,1,,,,,1883,1883,1884,,1,1,,,,,,,,,,,,,,,1
+UFl1,University of Florida,UFl,Live Oak,Suwannee,Florida,30.294444,-82.985833,0,,1,,,,,1883,1883,1884,,1,1,,,,,,,,,,,,,,,1
+UFl1,University of Florida,UFl,Tallahassee,Leon,Florida,30.455,-84.253333,0,,1,,,,,1883,1883,1884,,1,1,,,,,,,,,,,,,,,1
+UFl1,University of Florida,UFl,Ocala,Marion,Florida,29.187778,-82.130556,0,,1,,,,,1883,1883,1884,,1,1,,,,,,,,,,,,,,,1
+UFl1,University of Florida,UFl,Madison,Madison,Florida,30.466667,-83.416667,0,,1,,,,,1883,1883,1884,,1,1,,,,,,,,,,,,,,,1
+UFl2,University of Florida,UFl,Gainesville,Alachua,Florida,29.651997,-82.324992,1,1,,,1,,,1905,1905,1906,,1,1,1,,,,,,,,,,70000,,6,,2
+UFl2,University of Florida,UFl,Lake City,Columbia,Florida,30.183333,-82.633333,0,1,,,1,,,1905,1905,1906,,1,1,1,,,,,,,,,,60000,1,4,,2
+UFl2,University of Florida,UFl,DeFuniak Springs,Walton,Florida,30.716667,-86.116667,0,1,,,1,,,1905,1905,1906,,1,1,1,,,,,,,,,,,1,,,1
+UFl2,University of Florida,UFl,Bartow,Polk,Florida,27.8925,-81.839722,0,1,,,1,,,1905,1905,1906,,1,1,1,,,,,,,,,,,1,,,1
+UFl2,University of Florida,UFl,Saint Petersburg,Pinellas,Florida,27.773056,-82.64,0,1,,,1,,,1905,1905,1906,,1,1,1,,,,,,,,,,,1,,,1
+UFl2,University of Florida,UFl,,Osceola,Florida,28.06,-81.15,0,1,,,1,,,1905,1905,1906,,1,1,1,,,,,,,,,,,1,,,1
+UFl2,University of Florida,UFl,Tallahassee,Leon,Florida,30.455,-84.253333,0,1,,,1,,,1905,1905,1906,,1,1,1,,,,,,,,,,,1,,,1
+UFl2,University of Florida,UFl,Fernandina,Nassau,Florida,30.669444,-81.461667,0,,,,1,,,1905,1905,1906,,1,1,1,,,,,,,,,,,,,,1
+UFl2,University of Florida,UFl,Live Oak,Suwannee,Florida,30.294444,-82.985833,0,,,,1,,,1905,1905,1906,,1,1,1,,,,,,,,,,,,,,1
+UFl2,University of Florida,UFl,Ocala,Marion,Florida,29.187778,-82.130556,0,,,,1,,,1905,1905,1906,,1,1,1,,,,,,,,,,,,,,1
+UFl2,University of Florida,UFl,Jacksonville,Duval,Florida,30.336944,-81.661389,0,,,,1,,,1905,1905,1906,,1,1,1,,,,,,,,,,,,,,1
+GaT,Georgia Institute of Technology,GaT,Atlanta,Fulton,Georgia,33.755,-84.39,1,,1,,,,,1886,1886,1888,,1,,,1,,,,,,,,65000,120000,,,24,2
+GaT,Georgia Institute of Technology,GaT,Millidgeville,Baldwin,Georgia,33.087778,-83.233333,0,,1,,,,,1886,1886,1888,,1,,,1,,,,,,,,65000,10000,1,,24,2
+GaT,Georgia Institute of Technology,GaT,Macon,Bibb,Georgia,32.834722,-83.651667,0,,1,,,,,1886,1886,1888,,1,,,1,,,,,,,,65000,76000,,,24,2
+GaT,Georgia Institute of Technology,GaT,Athens,Clarke,Georgia,33.95,-83.383333,0,1,1,,,,,1886,1886,1888,,1,,,1,,,,,,,,65000,163500,1,,24,2
+GaT,Georgia Institute of Technology,GaT,Penfield,Greene,Georgia,33.6673,-83.1774,0,1,1,,,,,1886,1886,1888,,1,,,1,,,,,,,,65000,75000,1,,24,2
+GaT,Georgia Institute of Technology,GaT,Atlanta,DeKalb,Georgia,33.755,-84.39,0,,1,,,,,1886,1886,1888,,1,,,1,,,,,,,,65000,120000,,,24,1
+GaSoU,Georgia Southern College,GaSoU,Statesboro,Bulloch,Georgia,32.445278,-81.779167,1,,,,1,,,1906,1906,1908,,1,,,,,,,,,,,,125500,,7,,2
+GaSoU,Georgia Southern College,GaSoU,Stillmore,Emanuel,Georgia,32.441111,-82.214722,0,,,,1,,,1906,1906,1908,,1,,,,,,,,,,,,67300,1,2,,2
+GaSoU,Georgia Southern College,GaSoU,Claxton,Tattnall,Georgia,32.160833,-81.908611,0,,,,1,,,1906,1906,1908,,1,,,,,,,,,,,,102500,,4,,2
+GaSoU,Georgia Southern College,GaSoU,,Burke,Georgia,33.06,-82,0,,,,1,,,1906,1906,1908,,1,,,,,,,,,,,,,,,,1
+MercU,Mercer University,MercU,Macon,Bibb,Georgia,32.834722,-83.651667,1,,1,,,,,1870,1833,1871,,,,,,,,,,,,,,155000,,19,1,2
+MercU,Mercer University,MercU,Griffin,Spalding,Georgia,33.2475,-84.270833,0,,1,,,,,1870,1833,1871,,,,,,,,,,,,,,,,8,1,2
+MercU,Mercer University,MercU,Atlanta,Fulton,Georgia,33.755,-84.39,0,,1,,,,,1870,1833,1871,,,,,,,,,,,,,,,,3,1,1
+MercU,Mercer University,MercU,Penfield,Greene,Georgia,33.6673,-83.1774,0,,1,,,,,1870,1833,1871,,,,,,,,,,,,,,,,2,1,1
+MercU,Mercer University,MercU,Forsyth,Monroe,Georgia,33.035,-83.938056,0,,1,,,,,1870,1833,1871,,,,,,,,,,,,,,,,0,1,1
+MercU,Mercer University,MercU,Newnan,Coweta,Georgia,33.376389,-84.788611,0,,1,,,,,1870,1833,1871,,,,,,,,,,,,,,,,0,1,1
+MercU,Mercer University,MercU,Marietta,Cobb,Georgia,33.953333,-84.540556,0,,1,,,,,1870,1833,1871,,,,,,,,,,,,,,,,,,1
+SavSU,Savannah State University,SavSU,Savannah,Chatham,Georgia,32.0835,-81.0998,1,,,,,1,,1901,1900,1901,,1,,,,,1,,,,,,,10000,,,,1
+SavSU,Savannah State University,SavSU,Augusta,Richmond,Georgia,33.466667,-81.966667,0,,,,,1,,1901,1900,1901,,1,,,,,1,,,,,,,,,,,1
+SavSU,Savannah State University,SavSU,Macon,Bibb,Georgia,32.834722,-83.651667,0,,,,,1,,1901,1900,1901,,1,,,,,1,,,,,,,,,,,1
+SavSU,Savannah State University,SavSU,Americus,Sumter,Georgia,32.075278,-84.226667,0,,,,,1,,1901,1900,1901,,1,,,,,1,,,,,,,,,,,1
+SavSU,Savannah State University,SavSU,Columbus,Muscogee,Georgia,32.492222,-84.940278,0,,,,,1,,1901,1900,1901,,1,,,,,1,,,,,,,,,,,1
+SavSU,Savannah State University,SavSU,Athens,Clarke,Georgia,33.95,-83.383333,0,,,,,1,,1901,1900,1901,,1,,,,,1,,,,,,,,1,,,1
+UWGa,University of West Georgia,UWGa,Carrollton,Carroll,Georgia,33.580833,-85.076667,1,,,,1,,,1906,1906,1908,,1,,,,,,,,,,,,7000,,,,1
+UWGa,University of West Georgia,UWGa,,Muscogee,Georgia,32.51,-84.87,0,,,,1,,,1906,1906,1908,,1,,,,,,,,,,,,,,,,1
+UHi,University of Hawaii,UHi,Honolulu,Honolulu,Hawaii,21.3,-157.816667,1,,,1,,,,1907,1907,1908,,1,1,1,,,,,,,,,,,,,,1
+UHi,University of Hawaii,UHi,Mountain View,Hawaii,Hawaii,19.539722,-155.141389,0,,,1,,,,1907,1907,1908,,1,1,1,,,,,,,,,,,,,,1
+UHi,University of Hawaii,UHi,Lahainaluna,Maui,Hawaii,20.886111,-156.674722,0,,,1,,,,1907,1907,1908,,1,1,1,,,,,,,,,,,,,,1
+UId,University of Idaho,UId,Moscow,Latah,Idaho,46.73,-117,1,,1,,,,,1889,1889,1892,1896,1,1,1,,,,,,,,,15000,,,,,2
+UId,University of Idaho,UId,Eagle Rock,Bonneville,Idaho,43.5,-112.033333,0,,1,,,,,1889,1889,1892,1896,1,1,1,,,,,,,,,15000,,,,,2
+UId,University of Idaho,UId,Idaho Falls,Bonneville,Idaho,43.5,-112.033333,0,,1,,,,,1889,1889,1892,1896,1,1,1,,,,,,,,,15000,,,,,2
+UId,University of Idaho,UId,Lewiston,Nez Perce,Idaho,46.41,-117.02,0,,1,,,,,1889,1889,1892,1896,1,1,1,,,,,,,,,15000,,,,,1
+CarthC,Carthage College,CarthC,Carthage,Hancock,Illinois,40.414444,-91.13333,1,,,,1,,,1869,1869,1870,,,,,,,,,,,,,,135000,,,,1
+CarthC,Carthage College,CarthC,Springfield,Sangamon,Illinois,39.698333,-89.619722,0,,,,1,,,1869,1869,1870,,,,,,,,,,,,,,,,,,1
+CarthC,Carthage College,CarthC,Mendota,LaSalle,Illinois,41.547222,-89.117222,0,,,,1,,,1869,1869,1870,,,,,,,,,,,,,,,,,,1
+EIlU,Eastern Illinois University,EIlU,Charleston,Coles,Illinois,39.484722,-88.178056,1,,1,,,,,1895,1895,1899,,1,,,,1,,,,,,,,,,,,1
+EIlU,Eastern Illinois University,EIlU,Mattoon,Coles,Illinois,39.478889,-88.373056,0,,1,,,,,1895,1895,1899,,1,,,,1,,,,,,,,,,,,1
+IlSU,Illinois State University,IlSU,Normal,McLean,Illinois,40.512222,-88.988611,1,,,,1,,,1857,1857,1857,,1,,,,1,,,,,,,,141000,,,,1
+IlSU,Illinois State University,IlSU,Washington,Tazewell,Illinois,40.7,-89.416667,0,,,,1,,,1857,1857,1857,,1,,,,1,,,,,,,,20000,,,,1
+IlSU,Illinois State University,IlSU,Batavia,DuPage,Illinois,41.848889,-88.308333,0,,,,1,,,1857,1857,1857,,1,,,,1,,,,,,,,45000,,,,1
+IlSU,Illinois State University,IlSU,Batavia,Kane,Illinois,41.848889,-88.308333,0,,,,1,,,1857,1857,1857,,1,,,,1,,,,,,,,45000,,,,1
+IlSU,Illinois State University,IlSU,Peoria,Peoria,Illinois,40.720833,-89.609444,0,,,,1,,,1857,1857,1857,,1,,,,1,,,,,,,,80032,,,,1
+LincC,Lincoln College (IL),LincC,Lincoln,Logan,Illinois,40.15,-89.3675,1,,1,,1,,,1864,1865,1866,,,,,,,,,,,,,,,,,,2
+LincC,Lincoln College (IL),LincC,Mt. Zion,Macon,Illinois,39.778056,-88.878611,0,,1,,1,,,1864,1865,1866,,,,,,,,,,,,,,,,,,2
+LincC,Lincoln College (IL),LincC,Newburgh,Warrick,Indiana,37.946667,-87.403611,0,,1,,1,,,1864,1865,1866,,,,,,,,,,,,,,,,,,2
+LincC,Lincoln College (IL),LincC,Cherry Grove,Edgar,Illinois,39.5850348,-87.8350305,0,1,1,,1,,,1864,1865,1866,,,,,,,,,,,,,,,,,,2
+LincC,Lincoln College (IL),LincC,Virginia,Cass,Illinois,39.948889,-90.211667,0,,1,,1,,,1864,1865,1866,,,,,,,,,,,,,,,,,,1
+NIlU,Northern Illinois University,NIlU,DeKalb,DeKalb,Illinois,41.931389,-88.750278,1,,1,,,,,1895,1895,1899,,1,,,,1,,,,,,,,,,3,,2
+NIlU,Northern Illinois University,NIlU,Rockford,Winnebago,Illinois,42.259444,-89.064444,0,,1,,,,,1895,1895,1899,,1,,,,1,,,,,,,,,,2,,2
+NIlU,Northern Illinois University,NIlU,Freeport,Stephenson,Illinois,42.291944,-86.630278,0,,1,,,,,1895,1895,1899,,1,,,,1,,,,,,,,,,,,1
+NIlU,Northern Illinois University,NIlU,Polo,Ogle,Illinois,41.986944,-89.577222,0,,1,,,,,1895,1895,1899,,1,,,,1,,,,,,,,,,,,1
+NIlU,Northern Illinois University,NIlU,Oregon,Ogle,Illinois,42.014608,-89.332536,0,,1,,,,,1895,1895,1899,,1,,,,1,,,,,,,,,,,,1
+NIlU,Northern Illinois University,NIlU,Dixon,Lee,Illinois,41.846111,-89.485,0,,1,,,,,1895,1895,1899,,1,,,,1,,,,,,,,,,,,1
+NIlU,Northern Illinois University,NIlU,Fulton,Whiteside,Illinois,41.866944,-90.158889,0,,1,,,,,1895,1895,1899,,1,,,,1,,,,,,,,,,,,1
+NWU,Northwestern University,NWU,Evanston,Cook,Illinois,42.046389,-87.694722,1,,,1,,,,1853,1850,1855,,,,,,,,,,,,,,,,,,1
+NWU,Northwestern University,NWU,Chicago,Cook,Illinois,41.836944,-87.684722,0,,,1,,,,1853,1850,1855,,,,,,,,,,,,,,,,,,1
+SIlU,Southern Illinois University,SIlU,Carbondale,Jackson,Illinois,37.726,-89.22,1,,,,1,,,1869,1869,1874,,1,,,,1,,,,,,,,100000,,,,2
+SIlU,Southern Illinois University,SIlU,Centralia,Clinton,Illinois,38.525278,-89.1325,0,,,,1,,,1869,1869,1874,,1,,,,1,,,,,,,,,,,,2
+SIlU,Southern Illinois University,SIlU,Centralia,Jefferson,Illinois,38.525278,-89.1325,0,,,,1,,,1869,1869,1874,,1,,,,1,,,,,,,,,,,,2
+SIlU,Southern Illinois University,SIlU,Centralia,Marion,Illinois,38.525278,-89.1325,0,,,,1,,,1869,1869,1874,,1,,,,1,,,,,,,,,,,,2
+SIlU,Southern Illinois University,SIlU,Centralia,Washington,Illinois,38.525278,-89.1325,0,,,,1,,,1869,1869,1874,,1,,,,1,,,,,,,,,,,,2
+SIlU,Southern Illinois University,SIlU,DuQuoin,Perry,Illinois,38,-89.233333,0,,,,1,,,1869,1869,1874,,1,,,,1,,,,,,,,,,,,2
+UIUC,University of Illinois,UIUC,Urbana,Champaign,Illinois,40.109665,-88.204247,1,,1,,1,,,1867,1867,1868,,1,1,1,,,,,,,,,,285000,1,,,2
+UIUC,University of Illinois,UIUC,Chicago,Cook,Illinois,41.836944,-87.684722,0,,1,,1,,,1867,1867,1868,,1,1,1,,,,,,,,,,,,,,1
+UIUC,University of Illinois,UIUC,Chicago,DuPage,Illinois,41.836944,-87.684722,0,,1,,1,,,1867,1867,1868,,1,1,1,,,,,,,,,,,,,,1
+UIUC,University of Illinois,UIUC,Lincoln,Logan,Illinois,40.15,-89.3675,0,,1,,1,,,1867,1867,1868,,1,1,1,,,,,,,,,,385000,,,,2
+UIUC,University of Illinois,UIUC,Normal,McLean,Illinois,40.512222,-88.988611,0,,1,,1,,,1867,1867,1868,,1,1,1,,,,,,,,,,,,,,1
+UIUC,University of Illinois,UIUC,Bloomington,McLean,Illinois,40.484167,-88.993611,0,,1,,1,,,1867,1867,1868,,1,1,1,,,,,,,,,,470000,1,,,2
+UIUC,University of Illinois,UIUC,Jacksonville,Morgan,Illinois,39.731944,-90.234444,0,,1,,1,,,1867,1867,1868,,1,1,1,,,,,,,,,,491000,1,,,2
+WIlU,Western Illinois University,WIlU,Macomb,McDonough,Illinois,40.460503,-90.674047,1,,1,,,,,1899,1899,1902,,1,,,,1,,,,,,,,70000,,118,,2
+WIlU,Western Illinois University,WIlU,Quincy,Adams,Illinois,39.932222,-91.388611,0,,1,,,,,1899,1899,1902,,1,,,,1,,,,,,,,30000,,112,,2
+WIlU,Western Illinois University,WIlU,Aledo,Mercer,Illinois,41.200278,-90.75,0,,1,,,,,1899,1899,1902,,1,,,,1,,,,,,,,,,112,,2
+WIlU,Western Illinois University,WIlU,Rushville,Schuyler,Illinois,40.121111,-90.563056,0,,1,,,,,1899,1899,1902,,1,,,,1,,,,,,,,120000,,112,,2
+WIlU,Western Illinois University,WIlU,Monmouth,Warren,Illinois,40.911667,-90.64444,0,,1,,,,,1899,1899,1902,,1,,,,1,,,,,,,,54000,,112,,2
+WIlU,Western Illinois University,WIlU,LaHarpe,Hancock,Illinois,40.583056,-90.968889,0,,1,,,,,1899,1899,1902,,1,,,,1,,,,,,,,10000,,112,,2
+ButU,Butler University,ButU,Indianapolis,Marion,Indiana,39.766667,-86.15,1,,,,1,,,1849,1849,1856,,,,,,,,,,,,,,,,36,,1
+ButU,Butler University,ButU,Bedford,Lawrence,Indiana,38.862778,-86.492222,0,,,,1,,,1849,1849,1856,,,,,,,,,,,,,,,,16,,1
+ButU,Butler University,ButU,Farmington,Rush,Indiana,39.618056,-85.358889,0,,,,1,,,1849,1849,1856,,,,,,,,,,,,,,,,1,,1
+InU,Indiana University,InU,Bloomington,Monroe,Indiana,39.162222,-86.529167,1,,,,1,,,1820,1820,1825,,1,1,,,,,,,,,,,,,6,,2
+InU,Indiana University,InU,,Gibson,Indiana,38.31,-87.58,0,,,,1,,,1820,1820,1825,,1,1,,,,,,,,,,,,,5,,2
+NotDam,University of Notre Dame,NotDam,South Bend,St. Joseph,Indiana,41.6725,-86.255278,1,,,1,,,,1842,1842,1844,,,,,,,,,,,,,,,,,,1
+NotDam,University of Notre Dame,NotDam,Mount Pleasant,Daviess,Indiana,,,0,,,1,,,,1842,1842,1844,,,,,,,,,,,,,,,,,,1
+PurdU,Purdue University,PurdU,West Lafayette,Tippecanoe,Indiana,40.441944,-86.9125,1,1,1,,1,,,1869,1869,1874,1875,1,,1,,,,,,,,,,200000,1,,,2
+PurdU,Purdue University,PurdU,Greenfield,Hancock,Indiana,39.791389,-85.771389,0,,1,,1,,,1869,1869,1874,1875,1,,1,,,,,,,,,,125000,,,,2
+PurdU,Purdue University,PurdU,Indianapolis,Marion,Indiana,39.766667,-86.15,0,1,1,,1,,,1869,1869,1874,1875,1,,1,,,,,,,,,,175000,1,,,2
+PurdU,Purdue University,PurdU,Bloomington,Monroe,Indiana,39.162222,-86.529167,0,1,1,,1,,,1869,1869,1874,1875,1,,1,,,,,,,,,,50000,1,,,2
+DrakeU,Drake University,DrakeU,Des Moines,Polk,Iowa,41.590833,-93.620833,1,,,,1,,,1881,1881,1881,,,,,,,,,,,,,,20000,,,,1
+DrakeU,Drake University,DrakeU,Oskaloosa,Mahaska,Iowa,41.293889,-92.644444,0,,,,1,,,1881,1881,1881,,,,,,,,,,,,,,,,,,1
+GrinnC,Grinnell College,GrinnC,Grinnell,Poweshiek,Iowa,41.743611,-92.724722,1,,,,1,,,1858,1846,1861,,,,,,,,,,,,,,10000,,,,1
+GrinnC,Grinnell College,GrinnC,Davenport,Scott,Iowa,41.543056,-90.590833,0,,,,1,,,1858,1846,1861,,,,,,,,,,,,,,,,,,1
+GrinnC,Grinnell College,GrinnC,Anamosa,Jones,Iowa,42.108889,-91.281389,0,,,,1,,,1858,1846,1861,,,,,,,,,,,,,,,,,,1
+GrinnC,Grinnell College,GrinnC,Maquoketa,Jackson,Iowa,42.066944,-90.666111,0,,,,1,,,1858,1846,1861,,,,,,,,,,,,,,,,,,1
+GrinnC,Grinnell College,GrinnC,Des Moines,Polk,Iowa,41.590833,-93.620833,0,,,,1,,,1858,1846,1861,,,,,,,,,,,,,,,,,,1
+GrinnC,Grinnell College,GrinnC,Webster City,Hamilton,Iowa,42.466389,-93.820556,0,,,,1,,,1858,1846,1861,,,,,,,,,,,,,,,,,,1
+GrinnC,Grinnell College,GrinnC,Fort Dodge,Webster,Iowa,42.506667,-94.180278,0,,,,1,,,1858,1846,1861,,,,,,,,,,,,,,,,,,1
+IaSU,Iowa State University,IaSU,Ames,Story,Iowa,42.034722,-93.62,1,1,,,1,,,1859,1859,,,1,,1,,,,,,,,,,21355,,,,2
+IaSU,Iowa State University,IaSU,,Boone,Iowa,42.036389,-93.932222,1,,,,1,,,1859,1859,,,1,,1,,,,,,,,,,21355,,,,1
+IaSU,Iowa State University,IaSU,,Hardin,Iowa,42.373889,-93.244722,0,,,,1,,,1859,1859,,,1,,1,,,,,,,,,,,,,,2
+IaSU,Iowa State University,IaSU,,Jefferson,Iowa,41.031389,-91.944722,0,,,,1,,,1859,1859,,,1,,1,,,,,,,,,,,,,,2
+IaSU,Iowa State University,IaSU,,Johnson,Iowa,41.666667,-91.583333,0,1,,,1,,,1859,1859,,,1,,1,,,,,,,,,,,,,,1
+IaSU,Iowa State University,IaSU,,Marshall,Iowa,42.034167,-93.001111,0,,,,1,,,1859,1859,,,1,,1,,,,,,,,,,,,,,2
+IaSU,Iowa State University,IaSU,,Polk,Iowa,41.685,-93.570278,0,,,,1,,,1859,1859,,,1,,1,,,,,,,,,,,,,,2
+IaSU,Iowa State University,IaSU,,Tama,Iowa,42.078611,-92.531389,0,,,,1,,,1859,1859,,,1,,1,,,,,,,,,,,,,,2
+UIa,University of Iowa,UIa,Iowa City,Johnson,Iowa,41.6601,-91.5342,1,,,1,,,,1857,1847,1855,,1,1,,,,,,,,,,,,,,,1
+UIa,University of Iowa,UIa,Fairfield,Jefferson,Iowa,41.007222,-91.965833,0,,,1,,,,1857,1847,1855,,1,1,,,,,,,,,,,,,,,1
+UIa,University of Iowa,UIa,Dubuque,Dubuque,Iowa,42.504444,-90.686944,0,,,1,,,,1857,1847,1855,,1,1,,,,,,,,,,,,,,,1
+UIa,University of Iowa,UIa,Andrew,Jackson,Iowa,42.154059,-90.591765,0,,,1,,,,1857,1847,1855,,1,1,,,,,,,,,,,,,,,1
+UIa,University of Iowa,UIa,Oskaloosa,Mahaska,Iowa,41.293889,-92.644444,0,,,1,,,,1857,1847,1855,,1,1,,,,,,,,,,,,,,,1
+UIa,University of Iowa,UIa,Mount Pleasant,Henry,Iowa,40.966944,-91.551111,0,,,1,,,,1857,1847,1855,,1,1,,,,,,,,,,,,,,,1
+UNIa,University of Northern Iowa,UNIa,Cedar Fall,Black Hawk,Iowa,42.52352,-92.446402,1,,,1,,,,1876,1876,,,1,,,,1,,,,,,,,,1,,,1
+UNIa,University of Northern Iowa,UNIa,Ames,Story,Iowa,42.034722,-93.62,0,1,,1,,,,1876,1876,,,1,,,,1,,,,,,,,,,,,1
+UNIa,University of Northern Iowa,UNIa,Adel,Dallas,Iowa,41.616667,-94.021667,0,,,1,,,,1876,1876,,,1,,,,1,,,,,,,,,,,,1
+UNIa,University of Northern Iowa,UNIa,Grinnell,Poweshiek,Iowa,41.743611,-92.724722,0,1,,1,,,,1876,1876,,,1,,,,1,,,,,,,,,,,,1
+UNIa,University of Northern Iowa,UNIa,Fayette,Fayette,Iowa,42.8425,-91.803056,0,1,,1,,,,1876,1876,,,1,,,,1,,,,,,,,,,,,1
+EmpSU,Emporia State University,EmpSU,Emporia,Lyon,Kansas,38.403889,-96.181667,1,,,,1,,,1863,1865,,,1,,,,1,,,,1,Normal School,,,,,,,2
+EmpSU,Emporia State University,EmpSU,Lawrence,Douglas,Kansas,38.971667,-95.235278,0,,,,1,,,1863,1865,,,1,,,,1,,,,1,Public University,,,15000,,,,2
+EmpSU,Emporia State University,EmpSU,Topeka,Shawnee,Kansas,39.055833,-95.689444,0,,,,1,,,1863,1865,,,1,,,,1,,,,1,Capital,,,,,,,2
+EmpSU,Emporia State University,EmpSU,Tecumseh,Shawnee,Kansas,39.048056,-95.579167,0,,,,1,,,1863,1865,,,1,,,,1,,,,,,,,,,,,2
+EmpSU,Emporia State University,EmpSU,Manhattan,Riley,Kansas,39.191667,-96.591667,0,,,,1,,,1863,1865,,,1,,,,1,,,,1,Land Grant College,,,,,,,2
+EmpSU,Emporia State University,EmpSU,Leavenworth,Leavenworth,Kansas,39.311111,-94.9225,0,,,,1,,,1863,1865,,,1,,,,1,,,,1,Penitentiary,,,,,,,1
+KsSU,Kansas State University,KsSU,Manhattan,Riley,Kansas,39.191667,-96.591667,1,1,,,1,,,1863,1863,1866,1873,1,1,1,,,,,,1,Land Grant College,,,,1,,,2
+KsSU,Kansas State University,KsSU,Emporia,Lyon,Kansas,38.403889,-96.181667,0,,,,1,,,1863,1863,1866,1873,1,1,1,,,,,,1,Normal School,,,,,,,2
+KsSU,Kansas State University,KsSU,Topeka,Shawnee,Kansas,39.055833,-95.689444,0,,,,1,,,1863,1863,1866,1873,1,1,1,,,,,,1,Capital,,,,,,,2
+KsSU,Kansas State University,KsSU,Tecumseh,Shawnee,Kansas,39.048056,-95.579167,0,,,,1,,,1863,1863,1866,1873,1,1,1,,,,,,,,,,,,,,2
+KsSU,Kansas State University,KsSU,Lawrence,Douglas,Kansas,38.971667,-95.235278,0,,,,1,,,1863,1863,1866,1873,1,1,1,,,,,,1,Public University,,,,,,,2
+KsSU,Kansas State University,KsSU,Leavenworth,Leavenworth,Kansas,39.311111,-94.9225,0,,,,1,,,1863,1863,1866,1873,1,1,1,,,,,,1,Penitentiary,,,,,,,1
+KsWesU,Kansas Wesleyan University,KsWesU,Salina,Saline,Kansas,38.840278,-97.611389,1,,,,1,,,1885,1885,1886,,,,,,,,,,,,,,,,,,1
+KsWesU,Kansas Wesleyan University,KsWesU,Beloit,Mitchell,Kansas,39.462778,-98.109444,0,,,,1,,,1885,1885,1886,,,,,,,,,,,,,,,,,,1
+KsWesU,Kansas Wesleyan University,KsWesU,Clyde,Cloud,Kansas,39.591667,-97.397778,0,,,,1,,,1885,1885,1886,,,,,,,,,,,,,,,,,,1
+KsWesU,Kansas Wesleyan University,KsWesU,Ellsworth,Ellsworth,Kansas,38.731944,-98.229167,0,,,,1,,,1885,1885,1886,,,,,,,,,,,,,,,,,,1
+UKs,University of Kansas,UKs,Lawrence,Douglas,Kansas,38.971667,-95.235278,1,,,,1,,,1863,1863,1866,1873,1,1,,,,,,,1,Public University,,,15000,,,,2
+UKs,University of Kansas,UKs,Emporia,Lyon,Kansas,38.403889,-96.181667,0,,,,1,,,1863,1863,1866,1873,1,1,,,,,,,1,Normal School,,,,,,,2
+UKs,University of Kansas,UKs,Topeka,Shawnee,Kansas,39.055833,-95.689444,0,,,,1,,,1863,1863,1866,1873,1,1,,,,,,,1,Capital,,,,,,,2
+UKs,University of Kansas,UKs,Tecumseh,Shawnee,Kansas,39.048056,-95.579167,0,,,,1,,,1863,1863,1866,1873,1,1,,,,,,,,,,,,,,,2
+UKs,University of Kansas,UKs,Manhattan,Riley,Kansas,39.191667,-96.591667,0,,,,1,,,1863,1863,1866,1873,1,1,,,,,,,1,Land Grant College,,,,,,,2
+UKs,University of Kansas,UKs,Leavenworth,Leavenworth,Kansas,39.311111,-94.9225,0,,,,1,,,1863,1863,1866,1873,1,1,,,,,,,1,Penitentiary,,,,,,,1
+BereaC,Berea College,BereaC,Berea,Madison,Kentucky,37.576944,-84.293611,1,,,,,,1,1858,1858,1858,,,,,,,,,,,,,,,,,,1
+BereaC,Berea College,BereaC,,Estill,Kentucky,37.69,-83.96,0,,,,,,1,1858,1858,1858,,,,,,,,,,,,,,,,,,1
+EKyU,Eastern Kentucky Normal School,EKyU,Richmond,Madison,Kentucky,37.744722,-84.293611,1,1,1,,,,,1906,1906,1907,,1,,,,1,,,,,,,,,,,,1
+EKyU,Eastern Kentucky Normal School,EKyU,Louisville,Jefferson,Kentucky,38.225333,-85.741667,0,,1,,,,,1906,1906,1907,,1,,,,1,,,,,,,,,,,,1
+KySU,Kentucky State University,KySU,Frankfort,Franklin,Kentucky,38.2,-84.866667,1,,,,1,,1,1886,1886,1887,,1,,1,,,1,,,,,,,1500,,,,2
+KySU,Kentucky State University,KySU,Danville,Boyle,Kentucky,37.645556,-84.769722,0,,,,1,,1,1886,1886,1887,,1,,1,,,1,,,,,,,,,,,2
+KySU,Kentucky State University,KySU,Hopkinsville,Christian,Kentucky,36.854722,-87.488889,0,,,,1,,1,1886,1886,1887,,1,,1,,,1,,,,,,,,,,,2
+KySU,Kentucky State University,KySU,Owensboro,Daviess,Kentucky,37.757778,-87.118333,0,,,,1,,1,1886,1886,1887,,1,,1,,,1,,,,,,,,,,,2
+KySU,Kentucky State University,KySU,Knottsville,Daviess,Kentucky,37.771667,-86.904167,0,,,,1,,1,1886,1886,1887,,1,,1,,,1,,,,,,,,,,,2
+KySU,Kentucky State University,KySU,Lexington,Fayette,Kentucky,38.029722,-84.494722,0,,,,1,,1,1886,1886,1887,,1,,1,,,1,,,,,,,,,,,2
+KySU,Kentucky State University,KySU,Bowling Green,Warren,Kentucky,36.981667,-86.444444,0,,,,1,,1,1886,1886,1887,,1,,1,,,1,,,,,,,,,,,2
+KyWes1,Kentucky Wesleyan College,KyWesC,Millersville,Bourbon,Kentucky,38.303333,-84.146111,1,1,,,,,1,1858,1857,1860,,,,,,,,,,,,,,,,,,1
+KyWes1,Kentucky Wesleyan College,KyWesC,Shelbyville,Shelby,Kentucky,38.212222,-85.225833,0,1,,,,,1,1858,1857,1860,,,,,,,,,,,,,,,,,,1
+KyWes2,Kentucky Wesleyan College,KyWesC,Winchester,Clark,Kentucky,37.994722,-84.184167,1,,,,1,,1,1890,1857,1890,,,,,,,,,,,,,,42000,,,,1
+KyWes2,Kentucky Wesleyan College,KyWesC,Millersville,Bourbon,Kentucky,38.303333,-84.146111,0,1,,,1,,1,1890,1857,1890,,,,,,,,,,,,,,,,,,1
+KyWes3,Kentucky Wesleyan College,KyWesC,Owensboro,Daviess,Kentucky,37.757778,-87.118333,1,,1,,1,,,1950,1857,1951,,,,,,,,,,,,,,,,163,3,1
+KyWes3,Kentucky Wesleyan College,KyWesC,Winchester,Clark,Kentucky,37.994722,-84.184167,0,1,1,,1,,,1950,1857,1951,,,,,,,,,,,,,,,,87,3,1
+UKy,University of Kentucky,UKy,Lexington,Fayette,Kentucky,38.029722,-84.494722,1,1,,1,,,,1865,1865,1865,,1,1,1,,,,,,,,,,,,,,1
+UKy,University of Kentucky,UKy,Harrodsburg,Mercer,Kentucky,37.763889,-84.846111,0,1,,1,,,,1865,1865,1865,,1,1,1,,,,,,,,,,,,,,1
+WKyU,Western Kentucky Normal School,WKyU,Bowling Green,Warren,Kentucky,36.981667,-86.444444,1,,1,,,,,1906,1906,1907,,1,,,,1,,,,,,,,,,,,1
+WKyU,Western Kentucky Normal School,WKyU,Louisville,Jefferson,Kentucky,38.225333,-85.741667,0,,1,,,,,1906,1906,1907,,1,,,,1,,,,,,,,,,,,1
+LaSU,Louisiana State University,LaSU,Baton Rouge,East Baton Rouge,Louisiana,30.448611,-91.125833,1,1,,1,,1,1,1870,1853,,,1,1,1,,,,,,,,,,,,,,2
+LaSU,Louisiana State University,LaSU,Mt. Lebanon,Bienville,Louisiana,32.511667,-93.041389,0,,,1,,1,1,1870,1853,,,1,1,1,,,,,,,,,,,,,,2
+LaSU,Louisiana State University,LaSU,Jackson,East Feliciana,Louisiana,30.870833,-91.214444,0,,,1,,1,1,1870,1853,,,1,1,1,,,,,,,,,,,,,,2
+LaSU,Louisiana State University,LaSU,Pineville,Rapides,Louisiana,31.338889,-92.4125,0,1,,1,,1,1,1870,1853,,,1,1,1,,,,,,,,,,,,,,1
+SUAMC,Southern University and A&M College,SUAMC,Baton Rouge,East Baton Rouge,Louisiana,30.448611,-91.125833,1,,,,1,,1,1914,1879,1914,,1,,1,,,1,,,,,,,,,,,1
+SUAMC,Southern University and A&M College,SUAMC,New Iberia,Iberia,Louisiana,30.003611,-91.818333,0,,,,1,,1,1914,1879,1914,,1,,1,,,1,,,,,,,,,,,1
+SUAMC,Southern University and A&M College,SUAMC,Grambling,Lincoln,Louisiana,32.5275,-92.713889,0,,,,1,,1,1914,1879,1914,,1,,1,,,1,,,,,,,,,,,1
+SUAMC,Southern University and A&M College,SUAMC,Donaldsonville,Ascension,Louisiana,30.1,-90.994167,0,,,,1,,1,1914,1879,1914,,1,,1,,,1,,,,,,,,,,,1
+SUAMC,Southern University and A&M College,SUAMC,Alexandria,Rapides,Louisiana,31.292778,-92.459167,0,,,,1,,1,1914,1879,1914,,1,,1,,,1,,,,,,,,,,,1
+SUAMC,Southern University and A&M College,SUAMC,Saint Elmo,West Feliciana,Louisiana,,,0,,,,1,,1,1914,1879,1914,,1,,1,,,1,,,,,,,,,,,1
+SUAMC,Southern University and A&M College,SUAMC,Stevendale,East Baton Rouge,Louisiana,,,0,,,,1,,1,1914,1879,1914,,1,,1,,,1,,,,,,,,,,,1
+BowdC,Bowdoin College,BowdC,Brunswick,Cumberland,Maine,43.910833,-69.963056,1,,,,1,,,1794,1794,1802,,,,,,,,,,,,,,,,,,1
+BowdC,Bowdoin College,BowdC,Portland,Cumberland,Maine,43.666667,-70.266667,0,,,,1,,,1794,1794,1802,,,,,,,,,,,,,,,,,,1
+BowdC,Bowdoin College,BowdC,North Yarmouth,Cumberland,Maine,43.857778,-70.240278,0,,,,1,,,1794,1794,1802,,,,,,,,,,,,,,,,,,1
+BowdC,Bowdoin College,BowdC,Gorham,Cumberland,Maine,43.701944,-70.455556,0,,,,1,,,1794,1794,1802,,,,,,,,,,,,,,,,,,1
+BowdC,Bowdoin College,BowdC,New Gloucester,Cumberland,Maine,43.9575,-70.295,0,,,,1,,,1794,1794,1802,,,,,,,,,,,,,,,,,,1
+BowdC,Bowdoin College,BowdC,Freeport,Cumberland,Maine,43.843889,-70.101667,0,,,,1,,,1794,1794,1802,,,,,,,,,,,,,,,,,,1
+BowdC,Bowdoin College,BowdC,Turner,Androscoggin,Maine,44.266944,-70.245556,0,,,,1,,,1794,1794,1802,,,,,,,,,,,,,,,,,,1
+BowdC,Bowdoin College,BowdC,Winthrop,Kennebec,Maine,44.306944,-69.973333,0,,,,1,,,1794,1794,1802,,,,,,,,,,,,,,,,,,1
+ColbyC,Colby College,ColbyC,Waterville,Kennebec,Maine,44.551944,-69.645833,1,,,,1,,,1816,1814,,,,,,,,,,,,,,,,,,,1
+ColbyC,Colby College,ColbyC,Farmington,Franklin,Maine,44.668992,-70.146378,0,,,,1,,,1816,1814,,,,,,,,,,,,,,,,,,,1
+ColbyC,Colby College,ColbyC,Bloomfield,Somerset,Maine,44.764808,-69.718389,0,,,,1,,,1816,1814,,,,,,,,,,,,,,,,,,,1
+UMe,University of Maine,UMe,Orono,Penobscot,Maine,44.883,-68.672,1,,,,1,,,1866,1866,1868,,1,1,1,,,,,,,,,,,,8,,2
+UMe,University of Maine,UMe,Bangor,Penobscot,Maine,44.803611,-68.770278,0,,,,1,,,1866,1866,1868,,1,1,1,,,,,,,,,,,,7,,2
+UMe,University of Maine,UMe,Old Town,Penobscot,Maine,44.943056,-68.676389,0,,,,1,,,1866,1866,1868,,1,1,1,,,,,,,,,,,,7,,2
+UMe,University of Maine,UMe,Topsham,Sagadahoc,Maine,43.871667,-69.858889,0,,,,1,,,1866,1866,1868,,1,1,1,,,,,,,,,,,,7,,2
+UMe,University of Maine,UMe,Orrington,Penobscot,Maine,44.721389,-68.789167,0,,,,1,,,1866,1866,1868,,1,1,1,,,,,,,,,,,,,,1
+MeMA,Maine Maritime Academy,MeMA,Castine,Hancock,Maine,44.405833,-68.806944,1,1,1,1,,,,1941,1941,1943,,1,,,,,,,1,,,,,,,,,2
+MeMA,Maine Maritime Academy,MeMA,Bath,Sagadahoc,Maine,43.916389,-69.8225,0,,1,1,,,,1941,1941,1943,,1,,,,,,,1,,,,,10000,,,,2
+MeMA,Maine Maritime Academy,MeMA,Portland,Cumberland,Maine,43.666667,-70.266667,0,,1,1,,,,1941,1941,1943,,1,,,,,,,1,,,,,,,,,1
+UMd,University of Maryland,UMd,Riverdale,Prince George's,Maryland,38.962778,-76.929722,1,,1,,,,,1858,1858,1859,,1,1,1,,,,,,,,,,,,,,1
+UMd,University of Maryland,UMd,,Montgomery,Maryland,39.14,-77.2,0,,1,,,,,1858,1858,1859,,1,1,1,,,,,,,,,,,,,,1
+UMdBC,University of Maryland Baltimore County,UMdBC,Catonsville,Baltimore,Maryland,39.273889,-76.738056,1,,,1,,,,1963,1963,1966,,1,,,,,,,,,,,,,,,,1
+UMdBC,University of Maryland Baltimore County,UMdBC,Baltimore,Baltimore City,Maryland,39.283333,-76.616667,0,,,1,,,,1963,1963,1966,,1,,,,,,,,,,,,,,,,1
+BostU,Boston University,BostU,Boston,Suffolk,Massachusetts,42.358056,-71.063611,1,,,1,,,,1871,1839,,,,,,,,,,,,,,,,,,,1
+BostU,Boston University,BostU,Cambridge,Middlesex,Massachusetts,42.373611,-71.110556,0,,,1,,,,1871,1839,,,,,,,,,,,,,,,,,,,1
+BostU,Boston University,BostU,Concord,Merrimack,New Hampshire,43.206667,-71.538056,0,,,1,,,,1871,1839,,,,,,,,,,,,,,,,,,,1
+BostU,Boston University,BostU,Newbury,Orange,Vermont,44.103953,-72.121759,0,,,1,,,,1871,1839,,,,,,,,,,,,,,,,,,,1
+MtHOC,Mount Holyoke College,MtHOC,South Hadley,Hampshire,Massachusetts,42.258333,-72.575,1,,,,1,,,1836,1836,1837,,,,,,,,1,,,,,,8000,,,,1
+MtHOC,Mount Holyoke College,MtHOC,Sunderland,Franklin,Massachusetts,42.466667,-72.579167,0,,,,1,,,1836,1836,1837,,,,,,,,1,,,,,,,,,,1
+MtHOC,Mount Holyoke College,MtHOC,South Deerfield,Franklin,Massachusetts,42.476944,-72.600556,0,,,,1,,,1836,1836,1837,,,,,,,,1,,,,,,,,,,1
+SmithC,Smith College,SmithC,Northampton,Hampshire,Massachusetts,42.333333,-72.65,1,,,,1,,,1871,1870,1875,,,,,,,,1,,,,,,25000,,,,1
+SmithC,Smith College,SmithC,Hatfield,Hampshire,Massachusetts,42.370833,-72.598611,0,,,,1,,,1871,1870,1875,,,,,,,,1,,,,,,,,,,1
+UMass,University of Massachusetts Amherst,UMass,Amherst,Hampshire,Massachusetts,42.383333,-72.516667,1,1,,,1,,,1864,1863,1867,,1,1,1,,,,,,,,,,75000,,10,,1
+UMass,University of Massachusetts Amherst,UMass,Springfield,Hampden,Massachusetts,42.101389,-72.590278,0,,,,1,,,1864,1863,1867,,1,1,1,,,,,,,,,,,,4,,1
+UMass,University of Massachusetts Amherst,UMass,Northampton,Hampshire,Massachusetts,42.333333,-72.65,0,,,,1,,,1864,1863,1867,,1,1,1,,,,,,,,,,50000,,,,1
+UMass,University of Massachusetts Amherst,UMass,Lexington,Middlesex,Massachusetts,42.447222,-71.225,0,,,,1,,,1864,1863,1867,,1,1,1,,,,,,,,,,75000,1,,,1
+WPI,Worcester Polytechnic Institute,WPI,Worcester,Worcester,Massachusetts,42.266667,-71.8,1,,,,,,,1865,1865,1868,,,,,1,,,,,,,,100000,,,,,1
+WPI,Worcester Polytechnic Institute,WPI,Templeton,Worcester,Massachusetts,42.555556,-72.068056,0,,,,,,,1865,1865,1868,,,,,1,,,,,,,,,,,,,1
+WPI,Worcester Polytechnic Institute,WPI,Leominster,Worcester,Massachusetts,42.525,-71.760278,0,,,,,,,1865,1865,1868,,,,,1,,,,,,,,,,,,,1
+WPI,Worcester Polytechnic Institute,WPI,Mason,Hillsborough,New Hampshire,42.743611,-71.768889,0,,,,,,,1865,1865,1868,,,,,1,,,,,,,,,,,,,1
+EMiU,Eastern Michigan University,EMiU,Ypsilanti,Washtenaw,Michigan,42.242778,-83.618333,1,,,,1,,,1849,1849,1853,,1,,,,1,,,,,,,,13500,1,,,2
+EMiU,Eastern Michigan University,EMiU,Jackson,Jackson,Michigan,42.244167,-84.407222,0,,,,1,,,1849,1849,1853,,1,,,,1,,,,,,,,10335,1,,,2
+EMiU,Eastern Michigan University,EMiU,Marshall,Calhoun,Michigan,42.270556,-84.96,0,,,,1,,,1849,1849,1853,,1,,,,1,,,,,,,,4000,,,,1
+EMiU,Eastern Michigan University,EMiU,Gull Prairie,Kalamazoo,Michigan,42.3998,-85.4114,0,,,,1,,,1849,1849,1853,,1,,,,1,,,,,,,,7364,,,,1
+EMiU,Eastern Michigan University,EMiU,Niles,Berrien,Michigan,41.83,-86.254167,0,,,,1,,,1849,1849,1853,,1,,,,1,,,,,,,,5000,,,,1
+EMiU,Eastern Michigan University,EMiU,Niles,Cass,Michigan,41.83,-86.254167,0,,,,1,,,1849,1849,1853,,1,,,,1,,,,,,,,5000,,,,1
+MiSU,Michigan State University,MiSU,East Lansing,Ingham,Michigan,42.7348,-84.4808,1,,1,,,,,1855,1855,1857,1861,1,,1,,,,,,,,,,,,,,1
+MiSU,Michigan State University,MiSU,,Eaton,Michigan,42.59,-84.85,0,,1,,,,,1855,1855,1857,1861,1,,1,,,,,,,,,,,,,,1
+MiSU,Michigan State University,MiSU,,Ontonagon,Michigan,46.98,-89.27,0,,1,,,,,1855,1855,1857,1861,1,,1,,,,,,,,,,,,,,1
+MiSU,Michigan State University,MiSU,,Montcalm,Michigan,43.31,-85.15,0,,1,,,,,1855,1855,1857,1861,1,,1,,,,,,,,,,,,,,1
+MiSU,Michigan State University,MiSU,,Clinton,Michigan,42.94,-84.61,0,,1,,,,,1855,1855,1857,1861,1,,1,,,,,,,,,,,,,,1
+MiSU,Michigan State University,MiSU,,St. Clair,Michigan,42.93,-82.67,0,,1,,,,,1855,1855,1857,1861,1,,1,,,,,,,,,,,,,,1
+MiSU,Michigan State University,MiSU,,Newaygo,Michigan,43.55,-85.8,0,,1,,,,,1855,1855,1857,1861,1,,1,,,,,,,,,,,,,,1
+UMi,University of Michigan,UMi,Ann Arbor,Washtenaw,Michigan,42.281389,-83.748333,1,,1,,,,,1837,1817,1841,,1,1,,,,,,,,,,,,,,,1
+UMi,University of Michigan,UMi,Detroit,Wayne,Michigan,42.331389,-83.045833,0,,1,,,,,1837,1817,1841,,1,1,,,,,,,,,,,,,,,1
+UMi,University of Michigan,UMi,Monroe,Monroe,Michigan,41.916389,-83.397778,0,,1,,,,,1837,1817,1841,,1,1,,,,,,,,,,,,,,,1
+UMi,University of Michigan,UMi,Marshall,Calhoun,Michigan,42.270556,-84.96,0,,1,,,,,1837,1817,1841,,1,1,,,,,,,,,,,,,,,1
+WMiU,Western Michigan University,WMiU,Kalamazoo,Kalamazoo,Michigan,42.29,-85.585833,1,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,70000,,,,2
+WMiU,Western Michigan University,WMiU,Allegan,Allegan,Michigan,42.529167,-85.855278,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,2
+WMiU,Western Michigan University,WMiU,Hastings,Barry,Michigan,42.645833,-85.290833,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,2
+WMiU,Western Michigan University,WMiU,Muskogen,Muskogen,Michigan,43.234167,-86.248333,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,East Tawas,Iosco,Michigan,44.285556,-83.489167,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Three Oaks,Berrien,Michigan,41.800278,-86.609722,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Niles,Berrien,Michigan,41.83,-86.254167,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Niles,Cass,Michigan,41.83,-86.254167,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Cassopolis,Cass,Michigan,41.910833,-86.007778,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Dowagiac,Cass,Michigan,41.984444,-86.108056,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Centreville,St. Joseph,Michigan,41.923056,-85.5275,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Three Rivers,St. Joseph,Michigan,41.944167,-85.632222,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Decatur,Van Buren,Michigan,42.109722,-85.973333,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Battle Creek,Calhoun,Michigan,42.312222,-85.204167,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Charlotte,Eaton,Michigan,42.560556,-84.834722,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Holland,Ottawa,Michigan,42.783333,-86.1,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Holland,Allegan,Michigan,42.783333,-86.1,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Zeeland,Ottawa,Michigan,42.8125,-86.018611,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Grand Rapids,Kent,Michigan,42.96125,-85.655719,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Alto,Kent,Michigan,42.823611,-85.359722,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Whitehall,Muskogen,Michigan,43.41,-86.348611,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Manistee,Manistee,Michigan,44.243611,-86.321389,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Pentwater,Oceana,Michigan,43.780278,-86.43,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Benzonia,Benzie,Michigan,44.615833,-86.099167,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Traverse City,Grant Traverse,Michigan,44.768056,-85.622222,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Charlevoix,Charlevoix,Michigan,45.318056,-85.258333,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Ludington,Mason,Michigan,43.956944,-86.444444,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Howard City,Montcalm,Michigan,43.395556,-85.467778,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Petoskey,Emmett,Michigan,45.373333,-84.955278,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Galesburg,Kalamazoo,Michigan,42.289167,-85.419167,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+WMiU,Western Michigan University,WMiU,Vicksburg,Kalamazoo,Michigan,42.120556,-85.534167,0,,1,,1,,,1903,1903,1904,,1,,,,1,,,,,,,37001,,,,,1
+CarlC,Carleton College,CarlC,Northfield,Rice,Minnesota,44.458333,-93.161111,1,,,,1,,,1866,1866,1867,,,,,,,,,,,,,,18529,,,,1
+CarlC,Carleton College,CarlC,Cottage Grove,Washington,Minnesota,44.827778,-92.943889,0,,,,1,,,1866,1866,1867,,,,,,,,,,,,,,,,,,1
+CarlC,Carleton College,CarlC,Lake City,Goodhue,Minnesota,44.445556,-92.270556,0,,,,1,,,1866,1866,1867,,,,,,,,,,,,,,,,,,1
+CarlC,Carleton College,CarlC,Lake City,Wabasha,Minnesota,44.445556,-92.270556,0,,,,1,,,1866,1866,1867,,,,,,,,,,,,,,,,,,1
+CarlC,Carleton College,CarlC,Mantorville,Dodge,Minnesota,44.067222,-92.7575,0,,,,1,,,1866,1866,1867,,,,,,,,,,,,,,,,,,1
+CarlC,Carleton College,CarlC,Zumbrota,Goodhue,Minnesota,44.292778,-92.671667,0,,,,1,,,1866,1866,1867,,,,,,,,,,,,,,,,,,1
+ConcC,Concordia College,ConcC,Moorhead,Clay,Minnesota,46.873889,-96.767222,1,,,,1,,,1889,1889,1891,,,,,,,,,,,,,,,,,,1
+ConcC,Concordia College,ConcC,Fargo,Clay,Minnesota,,,0,,,,1,,,1889,1889,1891,,,,,,,,,,,,,,,,,,1
+ConcC,Concordia College,ConcC,Grand Forks,Polk,Minnesota,47.93,-97.024167,0,,,,1,,,1889,1889,1891,,,,,,,,,,,,,,,,,,1
+ConcC,Concordia College,ConcC,Fisher,Polk,Minnesota,47.8,-96.8,0,,,,1,,,1889,1889,1891,,,,,,,,,,,,,,,,,,1
+ConcC,Concordia College,ConcC,Beltrami,Polk,Minnesota,47.540556,-96.53,0,,,,1,,,1889,1889,1891,,,,,,,,,,,,,,,,,,1
+ConcC,Concordia College,ConcC,Ada,Norman,Minnesota,47.298611,-96.515833,0,,,,1,,,1889,1889,1891,,,,,,,,,,,,,,,,,,1
+GuAdC1,Gustavus Adolphus College,GuAdC,Carver,Carver,Minnesota,44.82,-93.8,1,,1,,,,,1863,1862,1862,,,,,,,,,,,,,,,,,,1
+GuAdC1,Gustavus Adolphus College,GuAdC,Vasa,Goodhue,Minnesota,44.503333,-92.7225,0,,1,,,,,1863,1862,1862,,,,,,,,,,,,,,,,,,1
+GuAdC1,Gustavus Adolphus College,GuAdC,Saint Paul,Ramsey,Minnesota,44.944167,-93.093611,0,,1,,,,,1863,1862,1862,,,,,,,,,,,,,,,,,,1
+GuAdC1,Gustavus Adolphus College,GuAdC,Red Wing,Goodhue,Minnesota,44.566667,-92.533333,0,,1,,,,,1863,1862,1862,,,,,,,,,,,,,,,,,,1
+GuAdC2,Gustavus Adolphus College,GuAdC,Saint Peter,Nicollet,Minnesota,44.333333,-93.966667,1,,,,1,,,1874,1874,1876,,,,,,,,,,,,,,10000,,,,1
+GuAdC2,Gustavus Adolphus College,GuAdC,Minneapolis,Hennepin,Minnesota,44.983333,-93.266667,0,,,,1,,,1874,1874,1876,,,,,,,,,,,,,,,,,,1
+HamU,Hamline University,HamU,Saint Paul,Ramsey,Minnesota,44.944167,-93.093611,1,,,,1,,,1873,1854,1880,,,,,,,,,,,,,,,,,,1
+HamU,Hamline University,HamU,Rochester,Olmsted,Minnesota,44.0234,-92.46295,0,,,,1,,,1873,1854,1880,,,,,,,,,,,,,,,,,,1
+HamU,Hamline University,HamU,Red Wing,Goodhue,Minnesota,44.566667,-92.533333,0,,,,1,,,1873,1854,1880,,,,,,,,,,,,,,,,,,1
+HamU,Hamline University,HamU,Faribault,Rice,Minnesota,44.290589,-93.268319,0,,,,1,,,1873,1854,1880,,,,,,,,,,,,,,,,,,1
+HamU,Hamline University,HamU,Winona,Winona,Minnesota,44.05,-91.633333,0,,,,1,,,1873,1854,1880,,,,,,,,,,,,,,,,,,1
+HamU,Hamline University,HamU,Minneapolis,Hennepin,Minnesota,44.983333,-93.266667,0,,,,1,,,1873,1854,1880,,,,,,,,,,,,,,,,,,1
+UMn1,University of Minnesota,UMn,Minneapolis,Hennepin,Minnesota,44.983333,-93.266667,1,,,,,,1,1851,1851,1851,,1,1,1,,,,,,,,,,,,,,1
+UMn1,University of Minnesota,UMn,Saint Paul,Ramsey,Minnesota,44.944167,-93.093611,1,,,,,,1,1851,1851,1851,,1,1,1,,,,,,,,,,,,,,1
+UMn1,University of Minnesota,UMn,Fort Snelling,Hennepin,Minnesota,44.892778,-93.180556,0,,,,,,1,1851,1851,1851,,1,1,1,,,,,,,,,,,,,,1
+UMn2,University of Minnesota,UMn,Minneapolis,Hennepin,Minnesota,44.983333,-93.266667,1,1,1,1,,,,1868,1851,1851,,1,1,1,,,,,,,,,,,,,,1
+UMn2,University of Minnesota,UMn,Saint Paul,Ramsey,Minnesota,44.944167,-93.093611,1,1,1,1,,,,1868,1851,1851,,1,1,1,,,,,,,,,,,,,,1
+UMn2,University of Minnesota,UMn,Glencoe,McLeod,Minnesota,44.770556,-94.151111,0,,1,1,,,,1868,1851,1851,,1,1,1,,,,,,,,,,,,,,1
+AlcSU,Alcorn State University,AlcSU,Lorman,Jefferson,Mississippi,31.820556,-91.05,1,,,1,,,,1871,1871,,,1,,1,,,1,,,,,,,,1,,,1
+AlcSU,Alcorn State University,AlcSU,Corinth,Alcorn,Mississippi,34.937222,-88.515278,0,,,1,,,,1871,1871,,,1,,1,,,1,,,,,,,,1,,,1
+AlcSU,Alcorn State University,AlcSU,Okolona,Chickasaw,Mississippi,34.005833,-88.750556,0,,,1,,,,1871,1871,,,1,,1,,,1,,,,,,,,1,,,1
+AlcSU,Alcorn State University,AlcSU,Holly Springs,Marshall,Mississippi,34.773333,-89.446389,0,,,1,,,,1871,1871,,,1,,1,,,1,,,,,,,,1,,,1
+MsSU,Mississippi State University,MsSU,Starkville,Oktibbeha,Mississippi,33.4625,-88.82,1,,1,1,,,,1878,1878,1880,,1,,1,,,,,,,,,,,,,,1
+MsSU,Mississippi State University,MsSU,Meridian,Lauderdale,Mississippi,32.374722,-88.704167,0,,1,1,,,,1878,1878,1880,,1,,1,,,,,,,,,,,,,,1
+MsSU,Mississippi State University,MsSU,West Point,Clay,Mississippi,33.606111,-88.6525,0,,1,1,,,,1878,1878,1880,,1,,1,,,,,,,,,,,,,,1
+SMsU,Southern Mississippi University,SMsU,Hattiesburg,Forrest,Mississippi,31.315833,-89.308611,1,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,250000,,,6,,2
+SMsU,Southern Mississippi University,SMsU,Laurel,Jones,Mississippi,31.6975,-89.139444,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,230000,,,2,,2
+SMsU,Southern Mississippi University,SMsU,Jackson,Hinds,Mississippi,32.298889,-90.184722,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,200000,,,1,,2
+SMsU,Southern Mississippi University,SMsU,Meridian,Lauderdale,Mississippi,32.374722,-88.704167,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+SMsU,Southern Mississippi University,SMsU,Artesia,Lowndes,Mississippi,33.416111,-88.645278,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+UMs,University of Mississippi,UMs,Oxford,Lafayette,Mississippi,34.359722,-89.526111,1,,1,,,,,1841,1844,1848,,1,1,,,,,,,,,315000,,,,58,7,2
+UMs,University of Mississippi,UMs,Kosciusko,Attala,Mississippi,33.058056,-89.588333,0,,1,,,,,1841,1844,1848,,1,1,,,,,,,,,315000,,,,,7,2
+UMs,University of Mississippi,UMs,Brandywine,Clairborne,Mississippi,31.8077,-90.7415,0,,1,,,,,1841,1844,1848,,1,1,,,,,,,,,315000,,,,,,1
+UMs,University of Mississippi,UMs,Mississippi City,Harrison,Mississippi,30.38186,-89.04392,0,,1,,,,,1841,1844,1848,,1,1,,,,,,,,,315000,,,,57,7,2
+UMs,University of Mississippi,UMs,Sweet Water,Lincoln,Mississippi,,,0,,1,,,,,1841,1844,1848,,1,1,,,,,,,,,315000,,,,,,1
+UMs,University of Mississippi,UMs,Holly Springs,Marshall,Mississippi,34.773333,-89.446389,0,1,1,,,,,1841,1844,1848,,1,1,,,,,,,,,315000,,,,,,1
+UMs,University of Mississippi,UMs,Monroe Missionary Station,Monroe,Mississippi,,,0,,1,,,,,1841,1844,1848,,1,1,,,,,,,,,315000,,,,,7,2
+UMs,University of Mississippi,UMs,Middleton,Montgomery,Mississippi,33.486111,-89.750833,0,,1,,,,,1841,1844,1848,,1,1,,,,,,,,,315000,,,,,7,2
+UMs,University of Mississippi,UMs,Brandon,Rankin,Mississippi,32.280278,-89.998333,0,,1,,,,,1841,1844,1848,,1,1,,,,,,,,,315000,,,,,7,2
+UMs,University of Mississippi,UMs,Redbone,Warren,Mississippi,32.2177,-90.8909,0,,1,,,,,1841,1844,1848,,1,1,,,,,,,,,315000,,,,,,1
+UMs,University of Mississippi,UMs,Louisville,Winston,Mississippi,33.123056,-89.056111,0,,1,,,,,1841,1844,1848,,1,1,,,,,,,,,315000,,,,,7,2
+UMs,University of Mississippi,UMs,Bare-foot,,Mississippi,,,0,,1,,,,,1841,1844,1848,,1,1,,,,,,,,,315000,,,,,,1
+UMs,University of Mississippi,UMs,Good Springs,,Mississippi,,,0,,1,,,,,1841,1844,1848,,1,1,,,,,,,,,315000,,,,,,1
+COzark,College of the Ozarks,COzark,Point Lookout,Taney,Missouri,36.6175,-93.239444,1,,,,,,1,1915,1907,1915,,,,,,,,,,,,,,,,,,1
+COzark,College of the Ozarks,COzark,Forsyth,Taney,Missouri,36.686667,-93.112778,0,,,,,,1,1915,1907,1915,,,,,,,,,,,,,,,,,,1
+MoSU,Missouri State University,MoSU,Springfield,Greene,Missouri,37.195,-93.286111,1,,,,1,,,1905,1905,1906,,1,,,,1,,,,,,,,25000,,,,1
+MoSU,Missouri State University,MoSU,Webb City,Jasper,Missouri,37.144444,-94.469167,0,,,,1,,,1905,1905,1906,,1,,,,1,,,,,,,,,,,,1
+MoSU,Missouri State University,MoSU,Aurora,Lawrence,Missouri,36.97,-93.720556,0,,,,1,,,1905,1905,1906,,1,,,,1,,,,,,,,,,,,1
+MoSU,Missouri State University,MoSU,Lebanon,Laclede,Missouri,37.678333,-92.661667,0,,,,1,,,1905,1905,1906,,1,,,,1,,,,,,,,,,,,1
+MoSU,Missouri State University,MoSU,Marshfield,Webster,Missouri,37.339722,-92.907222,0,,,,1,,,1905,1905,1906,,1,,,,1,,,,,,,,,,,,1
+MoSU,Missouri State University,MoSU,Pierce City,Lawrence,Missouri,36.946944,-94.0025,0,,,,1,,,1905,1905,1906,,1,,,,1,,,,,,,,,,,,1
+MoSU,Missouri State University,MoSU,Pierce City,Barry,Missouri,36.946944,-94.0025,0,,,,1,,,1905,1905,1906,,1,,,,1,,,,,,,,,,,,1
+MoSU,Missouri State University,MoSU,Monett,Pierce,Missouri,36.929,-93.9277,0,,,,1,,,1905,1905,1906,,1,,,,1,,,,,,,,,,,,1
+MoSU,Missouri State University,MoSU,Monett,Lawrence,Missouri,36.929,-93.9277,0,,,,1,,,1905,1905,1906,,1,,,,1,,,,,,,,,,,,1
+MoUST,Missouri University of Science and Technology,MoUST,Rolla,Phelps,Missouri,37.948889,-91.763056,1,,,,1,,,1870,1870,1871,,1,,1,1,,,,,,,,,130545,,,,2
+MoUST,Missouri University of Science and Technology,MoUST,,Iron,Missouri,37.55,-90.76,0,,,,1,,,1870,1870,1871,,1,,1,1,,,,,,,,,112545,,,,2
+UMo1,University of Missouri,UMo,Columbia,Boone,Missouri,38.951389,-92.328333,1,,,,1,,1,1839,1839,1842,,1,1,,,,,,,,,,,117921,,,,2
+UMo1,University of Missouri,UMo,,Howard,Missouri,39.14,-92.7,0,,,,1,,1,1839,1839,1842,,1,1,,,,,,,,,,,94000,,,,2
+UMo1,University of Missouri,UMo,,Cole,Missouri,38.51,-92.28,0,,,,1,,1,1839,1839,1842,,1,1,,,,,,,,,,,,,,,2
+UMo1,University of Missouri,UMo,,Cooper,Missouri,38.85,-92.81,0,,,,1,,1,1839,1839,1842,,1,1,,,,,,,,,,,,,,,2
+UMo1,University of Missouri,UMo,,Saline,Missouri,39.14,-93.2,0,,,,1,,1,1839,1839,1842,,1,1,,,,,,,,,,,,,,,2
+UMo1,University of Missouri,UMo,,Callaway,Missouri,38.84,-91.92,0,,,,1,,1,1839,1839,1842,,1,1,,,,,,,,,,,,,,,2
+UMo2,University of Missouri,UMo,Columbia,Boone,Missouri,38.951389,-92.328333,1,1,1,,,,,1870,1839,1870,,1,1,1,,,,,,,,,,90000,,,,1
+UMo2,University of Missouri,UMo,Springfield,Greene,Missouri,37.195,-93.286111,0,1,1,,,,,1870,1839,1870,,1,1,1,,,,,,,,,,200000,,,,1
+UMo2,University of Missouri,UMo,,Jackson,Missouri,39.01,94.34,0,1,1,,,,,1870,1839,1870,,1,1,1,,,,,,,,,,200000,,,,1
+MtSU,Montana State University,MtSU,Bozeman,Gallatin,Montana,45.677778,-111.04722,1,,1,,,,,1893,1893,1893,,1,,1,,,,,,,,,,,,,,1
+MtSU,Montana State University,MtSU,Great Falls,Cascade,Montana,47.503611,-111.286389,0,,1,,,,,1893,1893,1893,,1,,1,,,,,,,,,,,,,,1
+UMt,University of Montana,UMt,Missoula,Missoula,Montana,46.8625,-114.011667,1,,1,,,,,1893,1893,1895,,1,1,,,,,,,,,,,,,,,1
+UMt,University of Montana,UMt,Great Falls,Cascade,Montana,47.503611,-111.286389,0,,1,,,,,1893,1893,1895,,1,1,,,,,,,,,,,,,,,1
+MtT,Montana Tech,MtT,Butte,Silver Bow,Montana,45.998889,-112.524167,1,,1,,,,,1893,1897,1900,,1,,,1,,,,,,,,,,,,,1
+MtT,Montana Tech,MtT,Great Falls,Cascade,Montana,47.503611,-111.286389,0,,1,,,,,1893,1897,1900,,1,,,1,,,,,,,,,,,,,1
+UMtW,University of Montana Western,UMtW,Dillon,Beaverhead,Montana,45.215833,-112.634167,1,,1,,,,,1893,1893,1897,,1,,,,1,,,,,,,,,,,,1
+UMtW,University of Montana Western,UMtW,Great Falls,Cascade,Montana,47.503611,-111.286389,0,,1,,,,,1893,1893,1897,,1,,,,1,,,,,,,,,,,,1
+NeCTA,Nebraska College of Technical Agriculture,NeCTA,Curtis,Frontier,Nebraska,40.6325,-100.514722,1,,,,1,,,1911,1911,1911,,1,,,1,,,,,,,,,29733.04,,4,33,1
+NeCTA,Nebraska College of Technical Agriculture,NeCTA,Alma,Harlan,Nebraska,40.100833,-99.3625,0,,,,1,,,1911,1911,1911,,1,,,1,,,,,,,,,,,,33,1
+NeCTA,Nebraska College of Technical Agriculture,NeCTA,Mascot,Harlan,Nebraska,40.264444,-99.546111,0,,,,1,,,1911,1911,1911,,1,,,1,,,,,,,,,,,,33,1
+NeCTA,Nebraska College of Technical Agriculture,NeCTA,Bartley,Red Willow,Nebraska,40.251389,-100.308056,0,,,,1,,,1911,1911,1911,,1,,,1,,,,,,,,,,,,33,1
+NeCTA,Nebraska College of Technical Agriculture,NeCTA,McCook,Red Willow,Nebraska,40.205278,-100.626111,0,,,,1,,,1911,1911,1911,,1,,,1,,,,,,,,,,,,33,1
+NeCTA,Nebraska College of Technical Agriculture,NeCTA,Broken Bow,Custer,Nebraska,41.404722,-99.641389,0,,,,1,,,1911,1911,1911,,1,,,1,,,,,,,,,,,,33,1
+NeCTA,Nebraska College of Technical Agriculture,NeCTA,Cambridge,Furnas,Nebraska,40.283333,-100.170833,0,,,,1,,,1911,1911,1911,,1,,,1,,,,,,,,,,,,33,1
+NeCTA,Nebraska College of Technical Agriculture,NeCTA,Culbertson,Hitchcock,Nebraska,40.230278,-100.836111,0,,,,1,,,1911,1911,1911,,1,,,1,,,,,,,,,,,,33,1
+NeCTA,Nebraska College of Technical Agriculture,NeCTA,Holdrege,Phelps,Nebraska,40.440556,-99.374444,0,,,,1,,,1911,1911,1911,,1,,,1,,,,,,,,,,,,33,1
+NeCTA,Nebraska College of Technical Agriculture,NeCTA,Minden,Kearney,Nebraska,40.498056,-98.951111,0,,,,1,,,1911,1911,1911,,1,,,1,,,,,,,,,,,,33,1
+NeCTA,Nebraska College of Technical Agriculture,NeCTA,North Platte,Lincoln,Nebraska,41.136,-100.763,0,,,,1,,,1911,1911,1911,,1,,,1,,,,,,,,,,,,33,1
+NeCTA,Nebraska College of Technical Agriculture,NeCTA,Oxford,Furnas,Nebraska,40.252222,-99.632778,0,,,,1,,,1911,1911,1911,,1,,,1,,,,,,,,,,,,33,1
+NeCTA,Nebraska College of Technical Agriculture,NeCTA,Oxford,Harland,Nebraska,40.252222,-99.632778,0,,,,1,,,1911,1911,1911,,1,,,1,,,,,,,,,,,,33,1
+UNeKe,University of Nebraska at Kearney,UNeKe,Kearney,Buffalo,Nebraska,40.700833,-99.081111,1,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,90000,,,111,2
+UNeKe,University of Nebraska at Kearney,UNeKe,Broken Bow,Custer,Nebraska,41.404722,-99.641389,0,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,,,,111,2
+UNeKe,University of Nebraska at Kearney,UNeKe,Ord,Valley,Nebraska,41.6025,-98.93,0,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,,,,111,2
+UNeKe,University of Nebraska at Kearney,UNeKe,Alliance,Box Butte,Nebraska,42.101389,-102.870278,0,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,,,,111,1
+UNeKe,University of Nebraska at Kearney,UNeKe,Ainsworth,Brown,Nebraska,42.5475,-99.858889,0,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,,,,111,1
+UNeKe,University of Nebraska at Kearney,UNeKe,Long Pine,Brown,Nebraska,42.535833,-99.702778,0,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,,,,111,1
+UNeKe,University of Nebraska at Kearney,UNeKe,Fairfield,Clay,Nebraska,40.431944,-98.105,0,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,,,,111,1
+UNeKe,University of Nebraska at Kearney,UNeKe,Central City,Merrick,Nebraska,41.113889,-98.0025,0,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,,,,111,1
+UNeKe,University of Nebraska at Kearney,UNeKe,Lexington,Dawson,Nebraska,40.779444,-99.743889,0,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,,,,111,1
+UNeKe,University of Nebraska at Kearney,UNeKe,Gothenburg,Dawson,Nebraska,40.931667,-100.15944,0,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,,,,111,1
+UNeKe,University of Nebraska at Kearney,UNeKe,Saint Paul,Hastings,Nebraska,,,0,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,,,,111,1
+UNeKe,University of Nebraska at Kearney,UNeKe,Holdrege,Phelps,Nebraska,40.440556,-99.374444,0,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,,,,111,1
+UNeKe,University of Nebraska at Kearney,UNeKe,Aurora,Hamilton,Nebraska,40.866667,-98.003611,0,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,,,,111,1
+UNeKe,University of Nebraska at Kearney,UNeKe,North Platte,Lincoln,Nebraska,41.136,-100.763,0,,1,,1,,,1903,1903,1905,,1,,,,1,,,,,,,,,,,111,1
+UNv,University of Nevada,UNv,Reno,Washoe,Nevada,39.527222,-119.821944,1,,1,,,,,1885,1874,,,1,1,1,,,,,,,,,,,,10,2,2
+UNv,University of Nevada,UNv,Carson City,Carson City,Nevada,39.160833,-119.753889,0,,1,,,,,1885,1874,,,1,1,1,,,,,,,,,,,,9,2,2
+DartC,Dartmouth College,DartC,Hanover,Grafton,New Hampshire,43.702222,-72.289444,1,,,1,,,,1769,1754,,1771,,,,,,,,,,,,,,,,,1
+DartC,Dartmouth College,DartC,Lebanon,New London,Connecticut,41.6325,-72.24,0,,,1,,,,1769,1754,,1771,,,,,,,,,,,,,,,,,1
+DartC,Dartmouth College,DartC,Chester,Orange,New York,41.356944,-74.276944,0,,,1,,,,1769,1754,,1771,,,,,,,,,,,,,,,,,1
+DartC,Dartmouth College,DartC,Wyoming,Wyoming,New York,42.825278,-78.085278,0,,,1,,,,1769,1754,,1771,,,,,,,,,,,,,,,,,1
+DartC,Dartmouth College,DartC,Albany,Albany,New York,42.6525,-73.757222,0,,,1,,,,1769,1754,,1771,,,,,,,,,,,,,,,,,1
+DartC,Dartmouth College,DartC,Plymouth,Grafton,New Hampshire,43.7575,-71.688611,0,,,1,,,,1769,1754,,1771,,,,,,,,,,,,,,,,,1
+DartC,Dartmouth College,DartC,Romney,Grafton,New Hampshire,43.804167,-71.813333,0,,,1,,,,1769,1754,,1771,,,,,,,,,,,,,,,,,1
+DartC,Dartmouth College,DartC,Compton,Grafton,New Hampshire,43.864722,-71.636667,0,,,1,,,,1769,1754,,1771,,,,,,,,,,,,,,,,,1
+UNH,University of New Hampshire,UNH,Durham,Strafford,New Hampshire,43.133889,-70.926389,1,,,,1,,,1891,1891,1893,,1,1,1,,,,,,,,,,392796,,,,2
+UNH,University of New Hampshire,UNH,Tilton,Belknap,New Hampshire,43.442222,-71.589444,0,,,,1,,,1891,1891,1893,,1,1,1,,,,,,,,,,40000,,,,2
+UNH,University of New Hampshire,UNH,Hanover,Grafton,New Hampshire,43.702222,-72.289444,0,1,,,1,,,1891,1891,1893,,1,1,1,,,,,,,,,,,,,,1
+MontSU,Montclair State University,MontSU,Montclair,Essex,New Jersey,40.824415,-74.212352,1,,,,1,,,1904,1904,1908,,1,,,,1,,,,,,,,,,,,1
+MontSU,Montclair State University,MontSU,,Bergen,New Jersey,40.96,-74.07,0,,,,1,,,1904,1904,1908,,1,,,,1,,,,,,,,,,,,1
+MontSU,Montclair State University,MontSU,,Hudson,New Jersey,40.73,-74.08,0,,,,1,,,1904,1904,1908,,1,,,,1,,,,,,,,,,,,1
+MontSU,Montclair State University,MontSU,,Morris,New Jersey,40.87,-74.55,0,,,,1,,,1904,1904,1908,,1,,,,1,,,,,,,,,,,,1
+MontSU,Montclair State University,MontSU,,Passaic,New Jersey,41.03,-74.3,0,,,,1,,,1904,1904,1908,,1,,,,1,,,,,,,,,,,,1
+MontSU,Montclair State University,MontSU,,Sussex,New Jersey,41.14,-74.69,0,,,,1,,,1904,1904,1908,,1,,,,1,,,,,,,,,,,,1
+MontSU,Montclair State University,MontSU,,Union,New Jersey,40.65,-74.29,0,,,,1,,,1904,1904,1908,,1,,,,1,,,,,,,,,,,,1
+RutU,Rutgers University,RutU,New Brunswick,Middlesex,New Jersey,40.486678,-74.444414,1,1,,,,,,1771,1766,,,1,1,1,,,,,,,,,,,,,,2
+RutU,Rutgers University,RutU,Hackensack,Bergen,New Jersey,40.889398,-74.045698,0,1,,,,,,1771,1766,,,1,1,1,,,,,,,,,,,,,,2
+TCNJ,The College of New Jersey,TCNJ,Trenton,Mercer,New Jersey,40.223748,-74.764001,1,,,,1,,,1855,1855,1855,,1,,,,1,,,,,,,,14000,1,,,2
+TCNJ,The College of New Jersey,TCNJ,New Brunswick,Middlesex,New Jersey,40.486678,-74.444414,0,1,,,1,,,1855,1855,1855,,1,,,,1,,,,,,,,10000,1,,,2
+TCNJ,The College of New Jersey,TCNJ,Orange,Essex,New Jersey,40.76804,-74.235692,0,1,,,1,,,1855,1855,1855,,1,,,,1,,,,,,,,,1,,,2
+TCNJ,The College of New Jersey,TCNJ,Beverly,Burlington,New Jersey,40.064811,-74.921904,0,,,,1,,,1855,1855,1855,,1,,,,1,,,,,,,,,1,,,2
+NMSU,New Mexico State University,NMSU,Las Cruces,Dona Ana,New Mexico,32.314444,-106.778889,1,1,1,,,,,1889,1889,1890,,1,,1,,,,,,1,Land Grant College,,,,,,,2
+NMSU,New Mexico State University,NMSU,Socorro,Socorro,New Mexico,34.061667,-106.899444,0,,1,,,,,1889,1889,1890,,1,,1,,,,,,1,Technical College,,,,,,,2
+NMSU,New Mexico State University,NMSU,Albuquerque,Bernalillo,New Mexico,35.110833,-106.61,0,,1,,,,,1889,1889,1890,,1,,1,,,,,,1,Public University,,,,,,,2
+NMSU,New Mexico State University,NMSU,Las Vegas,San Miguel,New Mexico,35.596944,-105.2225,0,,1,,,,,1889,1889,1890,,1,,1,,,,,,1,Asylum,,,,,,,2
+NMT,New Mexico Tech,NMT,Socorro,Socorro,New Mexico,34.061667,-106.899444,1,,1,,,,,1889,1889,,,1,,,1,,,,,1,Technical College,,,,,,,2
+NMT,New Mexico Tech,NMT,Las Cruces,Dona Ana,New Mexico,32.314444,-106.778889,0,,1,,,,,1889,1889,,,1,,,1,,,,,1,Land Grant College,,,,,,,2
+NMT,New Mexico Tech,NMT,Albuquerque,Bernalillo,New Mexico,35.110833,-106.61,0,,1,,,,,1889,1889,,,1,,,1,,,,,1,Public University,,,,,,,2
+NMT,New Mexico Tech,NMT,Las Vegas,San Miguel,New Mexico,35.596944,-105.2225,0,,1,,,,,1889,1889,,,1,,,1,,,,,1,Asylum,,,,,,,2
+UNM,University of New Mexico,UNM,Albuquerque,Bernalillo,New Mexico,35.110833,-106.61,1,,1,,,,,1889,1889,1892,,1,1,,,,,,,1,Public University,,,,,,,2
+UNM,University of New Mexico,UNM,Las Cruces,Dona Ana,New Mexico,32.314444,-106.778889,0,,1,,,,,1889,1889,1892,,1,1,,,,,,,1,Land Grant College,,,,,,,2
+UNM,University of New Mexico,UNM,Socorro,Socorro,New Mexico,34.061667,-106.899444,0,,1,,,,,1889,1889,1892,,1,1,,,,,,,1,Technical College,,,,,,,2
+UNM,University of New Mexico,UNM,Las Vegas,San Miguel,New Mexico,35.596944,-105.2225,0,,1,,,,,1889,1889,1892,,1,1,,,,,,,1,Asylum,,,,,,,2
+ColgU,Colgate University,ColgU,Hamilton,Madison,New York,42.825556,-75.544722,1,,,,1,,,1819,1819,1820,,,,,,,,,,,,,,6000,,,,1
+ColgU,Colgate University,ColgU,Peterboro,Madison,New York,42.967222,-75.688056,0,,,,1,,,1819,1819,1820,,,,,,,,,,,,,,,,,,1
+ColgU,Colgate University,ColgU,Skaneateles,Onondaga,New York,42.946667,-76.428333,0,,,,1,,,1819,1819,1820,,,,,,,,,,,,,,10000,,,,1
+ColgU,Colgate University,ColgU,Elbridge,Onondaga,New York,43.036667,-76.443333,0,,,,1,,,1819,1819,1820,,,,,,,,,,,,,,,,,,1
+ColgU,Colgate University,ColgU,Fabius,Onondaga,New York,42.834722,-75.984722,0,,,,1,,,1819,1819,1820,,,,,,,,,,,,,,,,,,1
+ColgU,Colgate University,ColgU,Throopsville,Cayuga,New York,42.979722,-76.609722,0,,,,1,,,1819,1819,1820,,,,,,,,,,,,,,,,,,1
+ColgU,Colgate University,ColgU,Sangerfield,Oneida,New York,42.913889,-75.380833,0,,,,1,,,1819,1819,1820,,,,,,,,,,,,,,,,,,1
+ColumU,Columbia University,ColumU,New York City,New York City,New York,40.7127,-74.0059,1,,,,,,,1752,1752,1754,,,,,,,,,,,,,,,,,,1
+ColumU,Columbia University,ColumU,Newburgh,Orange,New York,41.519722,-74.021389,0,,,,,,,1752,1752,1754,,,,,,,,,,,,,,,,,,1
+ColumU,Columbia University,ColumU,Rye,Westchester,New York,40.981111,-73.683889,0,,,,,,,1752,1752,1754,,,,,,,,,,,,,,,,,,1
+ColumU,Columbia University,ColumU,Hempstead,Nassau,New York,40.704722,-73.617222,0,,,,,,,1752,1752,1754,,,,,,,,,,,,,,,,,,1
+CornU,Cornell University,CornU,Ithaca,Tompkins,New York,42.443333,-76.5,1,,,,,,1,1865,1865,1868,,,,1,,,,,,1,Land Grant College,,,500000,,,,2
+CornU,Cornell University,CornU,Syracuse,Onondaga,New York,43.046944,-76.144444,0,,,,,,1,1865,1865,1868,,,,1,,,,,,,,,,,,,,2
+CornU,Cornell University,CornU,Havana,Schuyler,New York,,,0,1,,,,,1,1865,1865,1868,,,,1,,,,,,,,,,,,,,2
+CornU,Cornell University,CornU,Montour Falls,Schuyler,New York,42.349167,-76.846389,0,1,,,,,1,1865,1865,1868,,,,1,,,,,,,,,,,,,,2
+CornU,Cornell University,CornU,Ovid,Seneca,New York,42.655833,-76.789722,0,1,,,,,1,1865,1865,1868,,,,1,,,,,,1,Asylum,,,,,,,2
+NYSMMA,New York State Merchant Marine Academy,NYSMMA,Fort Schuyler,Bronx,New York,40.805556,-73.791944,1,,1,1,,,,1933,1933,1938,,1,,,,,,,1,,,,,,,,,1
+NYSMMA,New York State Merchant Marine Academy,NYSMMA,,Queens,New York,40.75,-73.866667,0,,1,1,,,,1933,1933,1938,,1,,,,,,,1,,,,,,,,,1
+NYSMMA,New York State Merchant Marine Academy,NYSMMA,Lloyds Neck,Suffolk,New York,40.91,-73.456944,0,,1,1,,,,1933,1933,1938,,1,,,,,,,1,,,,,,,,,1
+NYSMMA,New York State Merchant Marine Academy,NYSMMA,Cold Spring Harbor,Suffolk,New York,40.866667,-73.45,0,,1,1,,,,1933,1933,1938,,1,,,,,,,1,,,,,,,,,1
+NYSMMA,New York State Merchant Marine Academy,NYSMMA,Clason Point,Bronx,New York,40.805656,-73.849582,0,,1,1,,,,1933,1933,1938,,1,,,,,,,1,,,,,,,,,1
+SUNYES,SUNY College of Environmental Science and Forestry,SUNYES,Syracuse,Onondaga,New York,43.046944,-76.144444,1,,,1,,,,1912,1911,1911,,1,,,1,,,,,,,,,,,,,1
+SUNYES,SUNY College of Environmental Science and Forestry,SUNYES,Ithaca,Tompkins,New York,42.443333,-76.5,0,,,1,,,,1912,1911,1911,,1,,,1,,,,,,,,,,,,,1
+DukeU,Duke University,DukeU,Durham,Durham,North Carolina,35.988611,-78.907222,1,,,,1,,,1890,1839,1892,,,,,,,,,,,,,,85000,,,,1
+DukeU,Duke University,DukeU,Raleigh,Wake,North Carolina,35.766667,-78.633333,0,,,,1,,,1890,1839,1892,,,,,,,,,,,,,,20500,,,,1
+ENCU,East Carolina University,ENCU,Greenville,Pitt,North Carolina,35.601667,-77.3725,1,,,,1,,,1907,1907,1909,,1,,,1,,,,,,,,,100000,,4,3,2
+ENCU,East Carolina University,ENCU,Kinston,Lenoir,North Carolina,35.270556,-77.585,0,,,,1,,,1907,1907,1909,,1,,,1,,,,,,,,,25000,1,2,3,2
+ENCU,East Carolina University,ENCU,Washington,Beaufort,North Carolina,35.553611,-77.051944,0,,,,1,,,1907,1907,1909,,1,,,1,,,,,,,,,95000,,,,2
+ENCU,East Carolina University,ENCU,Rocky Mount,Edgecombe,North Carolina,35.938333,-77.790556,0,,,,1,,,1907,1907,1909,,1,,,1,,,,,,,,,25000,,,3,2
+ENCU,East Carolina University,ENCU,Rocky Mount,Nash,North Carolina,35.938333,-77.790556,0,,,,1,,,1907,1907,1909,,1,,,1,,,,,,,,,25000,,,3,1
+ENCU,East Carolina University,ENCU,Elizabeth City,Pasquotank,North Carolina,36.295556,-76.225,0,,,,1,,,1907,1907,1909,,1,,,1,,,,,,,,,62000,,,,1
+ENCU,East Carolina University,ENCU,Tarboro,Edgecombe,North Carolina,35.902778,-77.545833,0,,,,1,,,1907,1907,1909,,1,,,1,,,,,,,,,30000,,,,1
+ENCU,East Carolina University,ENCU,New Bern,Craven,North Carolina,35.109167,-77.069167,0,,,,1,,,1907,1907,1909,,1,,,1,,,,,,,,,25000,,,,1
+HPU,High Point University,HPU,High Point,Guilford,North Carolina,35.970556,-79.9975,1,,,,1,,,1921,1920,1924,,,,,,,,,,,,,,100000,,,,2
+HPU,High Point University,HPU,Greensboro,Guilford,North Carolina,36.08,-79.819444,0,,,,1,,,1921,1920,1924,,,,,,,,,,,,,,100000,,,,2
+HPU,High Point University,HPU,Burlington,Alamance,North Carolina,36.089722,-79.445556,0,,,,1,,,1921,1920,1924,,,,,,,,,,,,,,100000,,,,2
+NCAT,North Carolina A&T University,NCAT,Greensboro,Guilford,North Carolina,36.08,-79.819444,1,1,1,,1,,,1892,1891,,,1,,1,,,1,,,,,,,11000,,,,2
+NCAT,North Carolina A&T University,NCAT,Mebane,Alamance,North Carolina,36.095833,-79.270833,0,1,1,,1,,,1892,1891,,,1,,1,,,1,,,,,,,,,,,2
+NCAT,North Carolina A&T University,NCAT,Durham,Durham,North Carolina,35.988611,-78.907222,0,1,1,,1,,,1892,1891,,,1,,1,,,1,,,,,,,,,,,2
+NCAT,North Carolina A&T University,NCAT,Winston,Forsyth,North Carolina,36.104,-80.2544,0,1,1,,1,,,1892,1891,,,1,,1,,,1,,,,,,,,,,,2
+NCAT,North Carolina A&T University,NCAT,Wilmington,New Hanover,North Carolina,34.223333,-77.912222,0,1,1,,1,,,1892,1891,,,1,,1,,,1,,,,,,,,,,,2
+NCAT,North Carolina A&T University,NCAT,Raleigh,Wake,North Carolina,35.766667,-78.633333,0,1,1,,1,,,1892,1891,,,1,,1,,,1,,,,,,,,,,,1
+NCSU,North Carolina State University,NCSU,Raleigh,Wake,North Carolina,35.766667,-78.633333,1,,1,,,,,1886,1886,1889,,1,,1,,,,,,,,,,8000,1,,,2
+NCSU,North Carolina State University,NCSU,Charlotte,Mecklenburg,North Carolina,35.226944,-80.843333,0,,1,,,,,1886,1886,1889,,1,,1,,,,,,,,,,5000,,,,2
+NCSU,North Carolina State University,NCSU,Kinston,Lenoir,North Carolina,35.270556,-77.585,0,,1,,,,,1886,1886,1889,,1,,1,,,,,,,,,,10000,,,,2
+UNC,University of North Carolina,UNC,Chapel Hill,Chatham,North Carolina,35.913139,-79.055806,1,,1,,,,,1792,1792,1795,,1,1,,,,,,,,,,,,,,,1
+UNC,University of North Carolina,UNC,Raleigh,Wake,North Carolina,35.766667,-78.633333,0,,1,,,,,1792,1792,1795,,1,1,,,,,,,,,,,,,,,1
+UNC,University of North Carolina,UNC,Williamsboro,Granville,North Carolina,34.4304,-78.4317,0,,1,,,,,1792,1792,1795,,1,1,,,,,,,,,,,,,,,1
+UNC,University of North Carolina,UNC,Hillsboro,Orange,North Carolina,36.070556,-79.104167,0,,1,,,,,1792,1792,1795,,1,1,,,,,,,,,,,,,,,1
+UNC,University of North Carolina,UNC,Pittsboro,Chatham,North Carolina,35.720278,-79.176389,0,,1,,,,,1792,1792,1795,,1,1,,,,,,,,,,,,,,,1
+UNC,University of North Carolina,UNC,Smithfield,Johnston,North Carolina,35.509167,-78.346389,0,,1,,,,,1792,1792,1795,,1,1,,,,,,,,,,,,,,,1
+UNC,University of North Carolina,UNC,Goshen,Granville,North Carolina,,,0,,1,,,,,1792,1792,1795,,1,1,,,,,,,,,,,,,,,1
+NDSU,North Dakota State University,NDSU,Fargo,Cass,North Dakota,46.877222,-96.789444,1,,,,,,1,1883,1883,1884,,1,,1,,,,,,1,Land Grant College,,,,,,,2
+NDSU,North Dakota State University,NDSU,Grand Forks,Grand Forks,North Dakota,47.925278,-97.0325,0,,,,,,1,1883,1883,1884,,1,,1,,,,,,1,Public University,,,,,,,2
+NDSU,North Dakota State University,NDSU,Jamestown,Stutsman,North Dakota,46.905556,-98.703056,0,,,,,,1,1883,1883,1884,,1,,1,,,,,,1,Asylum,,,,,,,2
+NDSU,North Dakota State University,NDSU,Bismarck,Burleigh,North Dakota,46.813333,-100.778889,0,,,,,,1,1883,1883,1884,,1,,1,,,,,,1,"Capital, Penitentiary",,,,,,,2
+UND,University of North Dakota,UND,Grand Forks,Grand Forks,North Dakota,47.925278,-97.0325,1,,,,,,1,1883,1883,1884,,1,1,,,,,,,1,Public University,,,,,,,2
+UND,University of North Dakota,UND,Fargo,Cass,North Dakota,46.877222,-96.789444,0,,,,,,1,1883,1883,1884,,1,1,,,,,,,1,Land Grant College,,,,,,,2
+UND,University of North Dakota,UND,Jamestown,Stutsman,North Dakota,46.905556,-98.703056,0,,,,,,1,1883,1883,1884,,1,1,,,,,,,1,Asylum,,,,,,,2
+UND,University of North Dakota,UND,Bismarck,Burleigh,North Dakota,46.813333,-100.778889,0,,,,,,1,1883,1883,1884,,1,1,,,,,,,1,"Capital, Penitentiary",,,,,,,2
+AkronU,Akron University,AkronU,Akron,Summit,Ohio,41.073056,-81.517778,1,,,,1,,,1870,1870,1872,,,,,,,,,,,,,,100000,,,,1
+AkronU,Akron University,AkronU,Kent,Portage,Ohio,41.15,-81.36,0,,,,1,,,1870,1870,1872,,,,,,,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Bowling Green,Wood,Ohio,41.373889,-83.650833,1,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,3,1,2
+BGSU,Bowling Green State University,BGSU,Van Wert,Van Wert,Ohio,40.867778,-84.583333,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,2,1,2
+BGSU,Bowling Green State University,BGSU,Napoleon,Henry,Ohio,41.391944,-84.126667,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,2
+BGSU,Bowling Green State University,BGSU,Fremont,Sandusky,Ohio,41.348889,-83.117222,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,2
+BGSU,Bowling Green State University,BGSU,Arcadia,Hancock,Ohio,41.111944,-83.5125,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Findlay,Hancock,Ohio,41.042778,-83.642222,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Grand Rapids,Wood,Ohio,41.410833,-83.866944,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Perrysburg,Wood,Ohio,41.550278,-83.63,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Carey,Wyandot,Ohio,40.951944,-83.381667,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Upper Sandusky,Wyandot,Ohio,40.829722,-83.279167,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Columbus Grove,Putnam,Ohio,40.919444,-84.06,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Leipsic,Putnam,Ohio,41.101667,-83.984167,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Delphos,Allen,Ohio,40.844444,-84.339444,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Delphos,Van Wert,Ohio,40.844444,-84.339444,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Fostoria,Hancock,Ohio,41.159167,-83.415278,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Fostoria,Seneca,Ohio,41.159167,-83.415278,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Fostoria,Wood,Ohio,41.159167,-83.415278,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Kenton,Hardin,Ohio,40.646667,-83.608611,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Lima,Allen,Ohio,40.740833,-84.115,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+BGSU,Bowling Green State University,BGSU,Wauseon,Fulton,Ohio,41.552222,-84.139167,0,,1,,,,,1910,1910,1914,1916,1,,,,1,,,,,,,,,,,,1
+DeniU,Denison University,DeniU,Granville,Licking,Ohio,40.0675,-82.512222,1,,,,1,,,1831,1831,1832,,,,,,,,,,,,,,,,,,1
+DeniU,Denison University,DeniU,,Clark,Ohio,39.92,-83.78,0,,,,1,,,1831,1831,1832,,,,,,,,,,,,,,,,,,1
+DeniU,Denison University,DeniU,Newport,Campbell,Kentucky,39.088611,-84.490278,0,,,,1,,,1831,1831,1832,,,,,,,,,,,,,,,,,,1
+DeniU,Denison University,DeniU,Zanesville,Muskingum,Ohio,39.946111,-82.012222,0,,,,1,,,1831,1831,1832,,,,,,,,,,,,,,,,,,1
+DeniU,Denison University,DeniU,Wooster,Wayne,Ohio,40.809167,-81.937222,0,,,,1,,,1831,1831,1832,,,,,,,,,,,,,,,,,,1
+DeniU,Denison University,DeniU,Frankfort,Ross,Ohio,39.405556,-83.182222,0,,,,1,,,1831,1831,1832,,,,,,,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Kent,Portage,Ohio,41.15,-81.36,1,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,2
+KentSU,Kent State University,KentSU,Ravenna,Portage,Ohio,41.158611,-81.243333,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,2
+KentSU,Kent State University,KentSU,Wadsworth,Medina,Ohio,41.027778,-81.729722,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,2
+KentSU,Kent State University,KentSU,Warren,Trumbull,Ohio,41.238333,-80.814444,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,2
+KentSU,Kent State University,KentSU,Ashtabula,Ashtabula,Ohio,41.877222,-80.796944,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Geneva,Ashtabula,Ohio,41.805,-80.948056,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Canton,Stark,Ohio,40.805,-81.375833,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Massillon,Stark,Ohio,40.796667,-81.521389,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Chagrin Falls,Cayuhoga,Ohio,41.431111,-81.388611,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Columbiana,Columbiana,Ohio,40.885556,-80.688333,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Salem,Columbiana,Ohio,40.900833,-80.852778,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Hudson,Summit,Ohio,41.243333,-81.438889,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Lorain,Lorain,Ohio,41.448333,-82.168889,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Medina,Medina,Ohio,41.135833,-81.864167,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Seville,Medina,Ohio,41.015556,-81.864444,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Ulrichsville,Tuscawaras,Ohio,40.395278,-81.349167,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Hubbard,Trumbull,Ohio,41.157222,-80.569167,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Youngstown,Mahoning,Ohio,41.1,-80.65,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KentSU,Kent State University,KentSU,Poland,Mahoning,Ohio,41.024722,-80.612222,0,,,,1,,,1910,1910,1912,,1,,,,1,,,,,,,,,,,,1
+KenyC,Kenyon College,KenyC,Gambier,Knox,Ohio,40.376389,-82.396667,1,,1,1,,,,1826,1824,1828,,,,,,,,,,,,,,,,,,1
+KenyC,Kenyon College,KenyC,Zanesville,Muskingum,Ohio,39.946111,-82.012222,0,,1,1,,,,1826,1824,1828,,,,,,,,,,,,,,,,,,1
+KenyC,Kenyon College,KenyC,Worthington,Franklin,Ohio,40.091389,-83.020833,0,,1,1,,,,1826,1824,1828,,,,,,,,,,,,,,,,,,1
+KenyC,Kenyon College,KenyC,Chillicothe,Ross,Ohio,39.336389,-82.983889,0,,1,1,,,,1826,1824,1828,,,,,,,,,,,,,,,,,,1
+KenyC,Kenyon College,KenyC,Franklinton,Franklin,Ohio,39.983333,-82.983333,0,,1,1,,,,1826,1824,1828,,,,,,,,,,,,,,,,,,1
+KenyC,Kenyon College,KenyC,Cincinnati,Hamilton,Ohio,39.1,-84.516667,0,,1,1,,,,1826,1824,1828,,,,,,,,,,,,,,,,,,1
+MUOh,Miami University of Ohio,MUOh,Oxford,Butler,Ohio,39.5075,-84.746667,1,,,,,,,1809,1824,,,1,,,,,,,,,,,,,,,,2
+MUOh,Miami University of Ohio,MUOh,,Hamilton,Ohio,39.2,-84.54,0,,,,,,,1809,1824,,,1,,,,,,,,,,,,,,,,2
+OhSU,Ohio State University,OhSU,Columbus,Franklin,Ohio,39.983333,-82.983333,1,,1,,,,,1870,1870,,,1,1,1,,,,,,,,,,,,,,1
+OhSU,Ohio State University,OhSU,Oxford,Butler,Ohio,39.5075,-84.746667,0,1,1,,,,,1870,1870,,,1,1,1,,,,,,,,,,,,,,1
+OhSU,Ohio State University,OhSU,College Hill,Hamilton,Ohio,39.2,-84.55,0,1,1,,,,,1870,1870,,,1,1,1,,,,,,,,,,,,,,1
+OhSU,Ohio State University,OhSU,Athens,Athens,Ohio,39.329167,-82.096111,0,1,1,,,,,1870,1870,,,1,1,1,,,,,,,,,,,,,,1
+WRU,Western Reserve University,WRU,Hudson,Summit,Ohio,41.23984,-81.440784,1,,,1,,,,1826,1826,1827,,,,,,,,,,,,,,,,,,1
+WRU,Western Reserve University,WRU,Cleveland,Cuyahoga,Ohio,41.482222,-81.669722,0,,,1,,,,1826,1826,1827,,,,,,,,,,,,,,,,,,1
+WRU,Western Reserve University,WRU,Burton,Geauga,Ohio,41.471667,-81.146944,0,,,1,,,,1826,1826,1827,,,,,,,,,,,,,,,,,,1
+WilbU,Wilberforce University,WilbU,Wilberforce,Greene,Ohio,39.715833,-83.88,1,,,1,,,,1856,1856,,,,,,,,1,,,,,,,,,,,1
+WilbU,Wilberforce University,WilbU,Yellow Springs,Greene,Ohio,39.8,-83.9,0,,,1,,,,1856,1856,,,,,,,,1,,,,,,,,,,,1
+WilbU,Wilberforce University,WilbU,Zanesville,Muskingum,Ohio,39.946111,-82.012222,0,,,1,,,,1856,1856,,,,,,,,1,,,,,,,,,,,1
+WilbU,Wilberforce University,WilbU,Chillicothe,Ross,Ohio,39.336389,-82.983889,0,,,1,,,,1856,1856,,,,,,,,1,,,,,,,,,,,1
+OkSU,Oklahoma State University,OkSU,Stillwater,Payne,Oklahoma,36.116,-97.059,1,,1,,,,,1890,1890,1891,,1,,1,,,,,,1,Land Grant College,,,,,,,1
+OkSU,Oklahoma State University,OkSU,Perkins,Payne,Oklahoma,35.976667,-97.031944,0,,1,,,,,1890,1890,1891,,1,,1,,,,,,,,,,,,,,1
+OkSU,Oklahoma State University,OkSU,,Canadian,Oklahoma,35.54,-97.98,0,,1,,,,,1890,1890,1891,,1,,1,,,,,,1,Political Kingmaker,,,,,,,1
+OkSU,Oklahoma State University,OkSU,Oklahoma City,Oklahoma,Oklahoma,35.482222,-97.535,0,,1,,,,,1890,1890,1891,,1,,1,,,,,,1,Capital,,,,,,,1
+UCOk,University of Central Oklahoma,UCOk,Edmond,Oklahoma,Oklahoma,35.65,-97.466667,1,,1,,,,,1890,1890,1891,,1,,,,1,,,,1,Normal School,,,,,,,1
+UCOk,University of Central Oklahoma,UCOk,,Canadian,Oklahoma,35.54,-97.98,0,,1,,,,,1890,1890,1891,,1,,,,1,,,,1,Political Kingmaker,,,,,,,1
+UCOk,University of Central Oklahoma,UCOk,Oklahoma City,Oklahoma,Oklahoma,35.482222,-97.535,0,,1,,,,,1890,1890,1891,,1,,,,1,,,,1,Capital,,,,,,,1
+UOk,University of Oklahoma,UOk,Norman,Cleveland,Oklahoma,35.22,-97.44,1,,1,,,,,1890,1890,1892,,1,1,,,,,,,1,Public University,,,15000,,,,1
+UOk,University of Oklahoma,UOk,,Canadian,Oklahoma,35.54,-97.98,0,,1,,,,,1890,1890,1892,,1,1,,,,,,,1,Political Kingmaker,,,,,,,1
+UOk,University of Oklahoma,UOk,Oklahoma City,Oklahoma,Oklahoma,35.482222,-97.535,0,,1,,,,,1890,1890,1892,,1,1,,,,,,,1,Capital,,,,,,,1
+UTulsa,University of Tulsa,UTulsa,Tulsa,Tulsa,Oklahoma,36.131389,-95.937222,1,,,,1,,,1907,1894,1907,,,,,,,,,,,,,,100000,,,,1
+UTulsa,University of Tulsa,UTulsa,Guthrie,Logan,Oklahoma,35.856389,-97.435833,0,,,,1,,,1907,1894,1907,,,,,,,,,,,,,,,,,,1
+UTulsa,University of Tulsa,UTulsa,Wynnewood,Garvin,Oklahoma,34.643889,-97.164722,0,,,,1,,,1907,1894,1907,,,,,,,,,,,,,,,,,,1
+UTulsa,University of Tulsa,UTulsa,Muskogee,Muskogee,Oklahoma,35.7466,-95.368,0,,,,1,,,1907,1894,1907,,,,,,,,,,,,,,,,,,1
+UTulsa,University of Tulsa,UTulsa,Enid,Garfield,Oklahoma,36.400556,-97.880833,0,,,,1,,,1907,1894,1907,,,,,,,,,,,,,,,,,,1
+UTulsa,University of Tulsa,UTulsa,Chickasha,Grady,Oklahoma,35.038333,-97.946111,0,,,,1,,,1907,1894,1907,,,,,,,,,,,,,,,,,,1
+UTulsa,University of Tulsa,UTulsa,Shawnee,Pottawatomie,Oklahoma,35.3425,-96.933889,0,,,,1,,,1907,1894,1907,,,,,,,,,,,,,,,,,,1
+UTulsa,University of Tulsa,UTulsa,El Reno,Canadian,Oklahoma,35.530278,-97.9575,0,,,,1,,,1907,1894,1907,,,,,,,,,,,,,,,,,,1
+OrSU,Oregon State University,OrSU,Corvallis,Benton,Oregon,44.566667,-123.283333,1,1,1,,,,,1868,1868,1870,1872,1,,1,,,,,,1,Land Grant College,,,,1,,,2
+OrSU,Oregon State University,OrSU,Salem,Marion,Oregon,44.930833,-123.028889,0,1,1,,,,,1868,1868,1870,1872,1,,1,,,,,,1,Capital,,,,1,,,2
+OrSU,Oregon State University,OrSU,Portland,Multnomah,Oregon,45.52,-122.681944,0,,1,,,,,1868,1868,1870,1872,1,,1,,,,,,1,Penitentiary,,,,,,,1
+UOr,University of Oregon,UOr,Eugene,Lane,Oregon,44.051944,-123.086667,1,1,,,1,,,1872,1872,1876,1878,1,1,,,,,,,,,,,50000,,,,2
+UOr,University of Oregon,UOr,Albany,Linn,Oregon,44.630278,-123.096111,0,1,,,1,,,1872,1872,1876,1878,1,1,,,,,,,,,,,50000,1,,,2
+UOr,University of Oregon,UOr,Monmouth,Polk,Oregon,44.849167,-123.23,0,1,,,1,,,1872,1872,1876,1878,1,1,,,,,,,,,,,,1,,,2
+UOr,University of Oregon,UOr,Forest Grove,Washington,Oregon,45.519722,-123.110556,0,1,,,1,,,1872,1872,1876,1878,1,1,,,,,,,,,,,,1,,,2
+UOr,University of Oregon,UOr,Salem,Marion,Oregon,44.930833,-123.028889,0,1,,,1,,,1872,1872,1876,1878,1,1,,,,,,,,,,,,1,,,1
+BuckU,Bucknell University,BuckU,Lewisburg,Union,Pennsylvania,40.963889,-76.888056,1,,,,1,,,1846,1846,1847,,,,,,,,,,,,,,,,,,1
+BuckU,Bucknell University,BuckU,Milton,Northumberland,Pennsylvania,41.011944,-76.854167,0,,,,1,,,1846,1846,1847,,,,,,,,,,,,,,,,,,1
+DrexU,Drexel University,DrexU,Philadelphia,Philadelphia,Pennsylvania,39.95,-75.166667,1,,,1,,,,1891,1891,1892,,,,,,,,,,,,,,,,,,1
+DrexU,Drexel University,DrexU,Wayne,Delaware,Pennsylvania,40.043889,-75.387778,0,,,1,,,,1891,1891,1892,,,,,,,,,,,,,,,,,,1
+FMC,Franklin and Marshall College,FMC,Lancaster,Lancaster,Pennsylvania,40.039722,-76.304444,1,,,,,,,1785,1785,,,,,,,,,,,,,,,,,,,1
+FMC,Franklin and Marshall College,FMC,Reading,Berks,Pennsylvania,40.341667,-75.926389,0,,,,,,,1785,1785,,,,,,,,,,,,,,,,,,,1
+FMC,Franklin and Marshall College,FMC,Lebanon,Lebanon,Pennsylvania,40.341667,-76.420833,0,,,,,,,1785,1785,,,,,,,,,,,,,,,,,,,1
+FMC,Franklin and Marshall College,FMC,Manheim,Lancaster,Pennsylvania,40.1625,-76.396389,0,,,,,,,1785,1785,,,,,,,,,,,,,,,,,,,1
+GettC,Gettysburg College,GettC,Gettysburg,Adams,Pennsylvania,39.828333,-77.232222,1,,1,,1,,,1826,1832,1826,,,,,,,,,,,,,7000,,,6,2,2
+GettC,Gettysburg College,GettC,Hagerstown,Washington,Maryland,39.642778,-77.72,0,,1,,1,,,1826,1832,1826,,,,,,,,,,,,,6635,,,3,2,2
+GettC,Gettysburg College,GettC,Carlisle,Cumberland,Pennsylvania,40.2025,-77.195,0,1,1,,1,,,1826,1832,1826,,,,,,,,,,,,,8000,,,,,1
+PaSU1,Pennsylvania State University,PaSU,Happy Valley,Centre,Pennsylvania,40.791389,-77.858611,1,,,,1,,,1855,1855,1859,,1,1,1,,,,,,,,,10000,,,,,2
+PaSU1,Pennsylvania State University,PaSU,,Blair,Pennsylvania,40.47,-78.35,0,,,,1,,,1855,1855,1859,,1,1,1,,,,,,,,,10000,,,,,2
+PaSU1,Pennsylvania State University,PaSU,,Franklin,Pennsylvania,39.93,-77.72,0,,,,1,,,1855,1855,1859,,1,1,1,,,,,,,,,,,,,,1
+PaSU1,Pennsylvania State University,PaSU,,Huntingdon,Pennsylvania,40.41,-77.98,0,,,,1,,,1855,1855,1859,,1,1,1,,,,,,,,,,,,,,1
+PaSU1,Pennsylvania State University,PaSU,,Erie,Pennsylvania,42.1,-80.1,0,,,,1,,,1855,1855,1859,,1,1,1,,,,,,,,,,,,,,1
+PaSU1,Pennsylvania State University,PaSU,,Perry,Pennsylvania,40.4,-77.27,0,,,,1,,,1855,1855,1859,,1,1,1,,,,,,,,,,,,,,1
+PaSU1,Pennsylvania State University,PaSU,,Allegheny,Pennsylvania,40.47,-79.98,0,,,,1,,,1855,1855,1859,,1,1,1,,,,,,,,,,,,,,1
+PaSU2,Pennsylvania State University,PaSU,Happy Valley,Centre,Pennsylvania,40.791389,-77.858611,1,1,1,1,,,,1865,1855,,,1,1,1,,,,,,,,,,,1,,,1
+PaSU2,Pennsylvania State University,PaSU,Lewisburg,Union,Pennsylvania,40.963889,-76.888056,0,1,1,1,,,,1865,1846,,,1,1,1,,,,,,,,,,,1,,,1
+PaSU2,Pennsylvania State University,PaSU,Meadville,Crawford,Pennsylvania,41.65,-80.15,0,1,1,1,,,,1865,1815,,,1,1,1,,,,,,,,,,,1,,,1
+PaSU2,Pennsylvania State University,PaSU,Gettysburg,Adams,Pennsylvania,39.828333,-77.232222,0,1,1,1,,,,1865,1832,,,1,1,1,,,,,,,,,,,1,,,1
+PaSU2,Pennsylvania State University,PaSU,Pittsburgh,Allegheny,Pennsylvania,40.439722,-79.976389,0,1,1,1,,,,1865,1787,,,1,1,1,,,,,,,,,,,1,,,1
+PaSU2,Pennsylvania State University,PaSU,Philadelphia,Philadelphia,Pennsylvania,39.95,-75.166667,0,1,1,1,,,,1865,1853,,,1,1,1,,,,,,,,,,,1,,,1
+WidenU,Widener University,WidenU,Chester,Delaware,Pennsylvania,39.847222,-75.372778,1,,,1,,,,1865,1821,,,,,,,,,,1,,,,,,,,,1
+WidenU,Widener University,WidenU,West Chester,Chester,Pennsylvania,39.958611,-75.605,0,,,1,,,,1865,1821,,,,,,,,,,1,,,,,,,,,1
+WidenU,Widener University,WidenU,Wilmington,New Castle,Delaware,39.745833,-75.546667,0,,,1,,,,1865,1821,,,,,,,,,,1,,,,,,,,,1
+Brown1,Brown University,BrownU,Warren,Bristol,Rhode Island,41.726111,-71.270556,1,,,,,,1,1764,1764,1765,,,,,,,,,,,,,,,,,,1
+Brown1,Brown University,BrownU,Providence,Providence,Rhode Island,41.823611,-71.422222,0,,,,,,1,1764,1764,1765,,,,,,,,,,,,,,,,,,1
+Brown1,Brown University,BrownU,Newport,Newport,Rhode Island,41.488056,-71.3125,0,,,,,,1,1764,1764,1765,,,,,,,,,,,,,,,,,,1
+Brown2,Brown University,BrownU,Providence,Providence,Rhode Island,41.823611,-71.422222,1,,,,1,,,1770,1764,1770,1769,,,,,,,,,,,,,,,21,1,2
+Brown2,Brown University,BrownU,Newport,Newport,Rhode Island,41.488056,-71.3125,0,,,,1,,,1770,1764,1770,1769,,,,,,,,,,,,,,,14,1,2
+Brown2,Brown University,BrownU,Bristol,Bristol,Rhode Island,41.684167,-71.268611,0,,,,1,,,1770,1764,1770,1769,,,,,,,,,,,,,,,,,1
+Brown2,Brown University,BrownU,East Greenwhich,Kent,Rhode Island,41.65,-71.483333,0,,,,1,,,1770,1764,1770,1769,,,,,,,,,,,,,,,,,1
+Brown2,Brown University,BrownU,Warren,Bristol,Rhode Island,41.726111,-71.270556,0,1,,,1,,,1770,1764,1770,1769,,,,,,,,,,,,,,,,,1
+URI,University of Rhode Island,URI,Kingston,Washington,Rhode Island,41.483333,-71.533333,1,1,1,1,,,1,1894,1888,,,1,1,1,,,,,,1,Land Grant College,,138000,,,,,1
+URI,University of Rhode Island,URI,Providence,Providence,Rhode Island,41.823611,-71.422222,0,1,1,1,,,1,1894,1888,,,1,1,1,,,,,,1,Monetary,,40000,,,,,1
+ClemU,Clemson University,ClemU,Fort Hill,Pickens,South Carolina,34.677917,-82.838889,1,1,,,,,,1889,1889,1893,,1,,1,,,,,,,,,,,,17,4,2
+ClemU,Clemson University,ClemU,Columbia,Richland,South Carolina,34.000556,-81.034722,0,1,,,,,,1889,1889,1893,,1,,1,,,,,,,,,,,,15,4,2
+USC,University of South Carolina,USC,Columbia,Richland,South Carolina,34.000556,-81.034722,1,1,,,,,,1801,1801,1805,,1,1,,,,,,,,,,,,,,,1
+USC,University of South Carolina,USC,Cambridge,Greenwood,South Carolina,,,0,1,,,,,,1801,1801,1805,,1,1,,,,,,,,,,,,,,,1
+USC,University of South Carolina,USC,Winnsborough,Fairfield,South Carolina,34.376944,-81.088056,0,1,,,,,,1801,1801,1805,,1,1,,,,,,,,,,,,,,,1
+USC,University of South Carolina,USC,Beaufort,Beaufort,South Carolina,32.433333,-80.683333,0,1,,,,,,1801,1801,1805,,1,1,,,,,,,,,,,,,,,1
+USC,University of South Carolina,USC,Alexandria,Beaufort,South Carolina,,,0,1,,,,,,1801,1801,1805,,1,1,,,,,,,,,,,,,,,1
+VoorC,Voorhees College,VoorC,Denmark,Bamberg,South Carolina,33.321111,-81.142222,1,,,1,1,,,1897,1897,1897,,,,,,,1,1,,,,,,,,,,1
+VoorC,Voorhees College,VoorC,Govan,Bamberg,South Carolina,33.216667,-81.166667,0,,,1,1,,,1897,1897,1897,,,,,,,1,1,,,,,,,,,,1
+VoorC,Voorhees College,VoorC,,Hampton,South Carolina,32.78,-81.14,0,,,1,1,,,1897,1897,1897,,,,,,,1,1,,,,,,,,,,1
+SDSU,South Dakota State University,SDSU,Brookings,Brookings,South Dakota,44.306389,-96.788056,1,,1,,,,,1881,1881,1885,,1,,1,,,,,,1,Land Grant College,,,1600,,,,1
+SDSU,South Dakota State University,SDSU,Sioux Falls,Minnehaha,South Dakota,43.536389,-96.731667,0,,1,,,,,1881,1881,1885,,1,,1,,,,,,1,Penitentiary,,,,,,,1
+SDSMT,South Dakota School of Mines and Technology,SDSMT,Rapid City,Pennington,South Dakota,44.076,-103.228,1,,1,,,,,1885,1885,1887,,1,,,1,,,,,,,,,10000,,,,1
+SDSMT,South Dakota School of Mines and Technology,SDSMT,Deadwood,Lawrence,South Dakota,44.376667,-103.729167,0,,1,,,,,1885,1885,1887,,1,,,1,,,,,,,,,,,,,1
+SDSMT,South Dakota School of Mines and Technology,SDSMT,Keystone,Pennington,South Dakota,43.893611,-103.426111,0,,1,,,,,1885,1885,1887,,1,,,1,,,,,,,,,,,,,1
+USD,University of South Dakota,USD,Vermillion,Clay,South Dakota,42.781111,-96.926944,1,,1,,,,,1862,1862,1882,,1,1,,,,,,,1,Public University,,,,,,,2
+USD,University of South Dakota,USD,Yankton,Yankton,South Dakota,42.881667,-97.3925,0,,1,,,,,1862,1862,1882,,1,1,,,,,,,1,Capital,,,,,,,2
+USD,University of South Dakota,USD,Bon Homme,Bon Homme,South Dakota,42.99,-97.88,0,,1,,,,,1862,1862,1882,,1,1,,,,,,,1,Penitentiary,,,,,,,2
+MTnSU,Middle Tennessee State University,MTnSU,Murfreesboro,Rutherford,Tennessee,35.846111,-86.391944,1,,,,1,,,1909,1909,1911,,1,,,,1,,,,,,,,180000,,,,2
+MTnSU,Middle Tennessee State University,MTnSU,Clarksville,Montgomery,Tennessee,36,-87,0,,,,1,,,1909,1909,1911,,1,,,,1,,,,,,,,185000,,,,2
+MTnSU,Middle Tennessee State University,MTnSU,Columbia,Maury,Tennessee,35.615,-87.044444,0,,,,1,,,1909,1909,1911,,1,,,,1,,,,,,,,,,,,1
+MTnSU,Middle Tennessee State University,MTnSU,Cookeville,Putnam,Tennessee,36.164167,-85.504167,0,,,,1,,,1909,1909,1911,,1,,,,1,,,,,,,,,,,,1
+MTnSU,Middle Tennessee State University,MTnSU,Fayetteville,Lincoln,Tennessee,35.152778,-86.571389,0,,,,1,,,1909,1909,1911,,1,,,,1,,,,,,,,,,,,1
+MTnSU,Middle Tennessee State University,MTnSU,Monterey,Putnam,Tennessee,36.145278,-85.265833,0,,,,1,,,1909,1909,1911,,1,,,,1,,,,,,,,,,,,1
+MTnSU,Middle Tennessee State University,MTnSU,Shelbyville,Bedford,Tennessee,35.4888889,-86.452222,0,,,,1,,,1909,1909,1911,,1,,,,1,,,,,,,,,,,,1
+MTnSU,Middle Tennessee State University,MTnSU,Tullahoma,Coffee,Tennessee,35.368611,-86.213333,0,,,,1,,,1909,1909,1911,,1,,,,1,,,,,,,,,,,,1
+MTnSU,Middle Tennessee State University,MTnSU,Tullahoma,Franklin,Tennessee,35.368611,-86.213333,0,,,,1,,,1909,1909,1911,,1,,,,1,,,,,,,,,,,,1
+MTnSU,Middle Tennessee State University,MTnSU,Winchester,Franklin,Tennessee,35.188333,-86.1125,0,,,,1,,,1909,1909,1911,,1,,,,1,,,,,,,,,,,,1
+TnSU,Tennessee State University,TnSU,Nashville,Davidson,Tennessee,36.166667,-86.783333,1,,,,1,,,1911,1911,1912,1911,1,,1,,,1,,,,,,,100000,,,,1
+TnSU,Tennessee State University,TnSU,Chattanooga,Hamilton,Tennessee,35.045556,-85.267222,0,,,,1,,,1911,1911,1912,1911,1,,1,,,1,,,,,,,71000,,,,1
+TnSU,Tennessee State University,TnSU,Memphis,Shelby,Tennessee,35.1175,-89.971111,0,,,,1,,,1911,1911,1912,1911,1,,1,,,1,,,,,,,,,,,1
+UTn1,University of Tennessee,UTn,Knoxville,Knox,Tennessee,35.972778,-83.942222,1,1,1,1,,,,1807,1794,1795,,1,1,,,,,,,,,,,,,,,1
+UTn1,University of Tennessee,UTn,Somerville,Fayette,Tennessee,35.2375,-89.358333,0,1,1,1,,,,1807,1794,1795,,1,1,,,,,,,,,,,,,,,1
+UTn1,University of Tennessee,UTn,Limestone,Washington,Tennessee,36.228056,-82.630556,0,1,1,1,,,,1807,1794,1795,,1,1,,,,,,,,,,,,,,,1
+UTn1,University of Tennessee,UTn,,Blount,Tennessee,35.69,-83.93,0,,1,1,,,,1807,1794,1795,,1,1,,,,,,,,,,,,,,,1
+UTn1,University of Tennessee,UTn,,Hawkins,Tennessee,36.44,-82.95,0,,1,1,,,,1807,1794,1795,,1,1,,,,,,,,,,,,,,,1
+UTn2,University of Tennessee,UTn,Knoxville,Knox,Tennessee,35.972778,-83.942222,1,1,1,,,,,1869,1794,1795,,1,1,1,,,,,,,,,,,,35,,2
+UTn2,University of Tennessee,UTn,Murfreesboro,Rutherford,Tennessee,35.846111,-86.391944,0,1,1,,,,,1869,1794,1795,,1,1,1,,,,,,,,,,,,33,,2
+UnionU,Union University,UnionU,Jackson,Madison,Tennessee,35.633056,-88.820833,1,,,,1,,,1874,1874,1874,,,,,,,,,,,,,,,,,,1
+UnionU,Union University,UnionU,Murfreesboro,Rutherford,Tennessee,35.846111,-86.391944,0,,,,1,,,1874,1874,1874,,,,,,,,,,,,,,,,,,1
+UnionU,Union University,UnionU,Chattanooga,Hamilton,Tennessee,35.045556,-85.267222,0,,,,1,,,1874,1874,1874,,,,,,,,,,,,,,,,,,1
+UnionU,Union University,UnionU,McMinnville,Warren,Tennessee,35.686667,-85.779444,0,,,,1,,,1874,1874,1874,,,,,,,,,,,,,,,,,,1
+UnionU,Union University,UnionU,Nashville,Davidson,Tennessee,36.166667,-86.783333,0,,,,1,,,1874,1874,1874,,,,,,,,,,,,,,,,,,1
+VandU,Vanderbilt University,VandU,Nashville,Davidson,Tennessee,36.166667,-86.783333,1,,,,,,1,1873,1873,1875,,,,,,,,,,,,,,,,,,1
+VandU,Vanderbilt University,VandU,Staten Island,Richmond,New York,40.576281,-74.144839,0,,,,,,1,1873,1873,1875,,,,,,,,,,,,,,,,,,1
+BaylU,Baylor University,BaylU,Waco,McLennan,Texas,31.551389,-97.155833,1,1,,1,,,,1885,1845,1846,,,,,,,,,,,,,,,,,,1
+BaylU,Baylor University,BaylU,Independence,Washington,Texas,30.319444,-96.346667,0,1,,1,,,,1885,1861,1846,,,,,,,,,,,,,,,,,,1
+DaBapU,Dallas Baptist University,DaBapU,Dallas,Dallas,Texas,32.775833,-96.796667,1,,,,,,1,1963,1898,1965,,,,,,,,,,,,,,,,,,1
+DaBapU,Dallas Baptist University,DaBapU,San Antonio,Bexar,Texas,29.416667,-98.5,0,,,,,,1,1963,1898,1965,,,,,,,,,,,,,,,,,,1
+DaBapU,Dallas Baptist University,DaBapU,Houston,Harris,Texas,29.762778,-95.383056,0,,,,,,1,1963,1898,1965,,,,,,,,,,,,,,,,,,1
+DaBapU,Dallas Baptist University,DaBapU,Fort Worth,Tarrant,Texas,32.757358,-97.333181,0,,,,,,1,1963,1898,1965,,,,,,,,,,,,,,,,,,1
+DaBapU,Dallas Baptist University,DaBapU,Decatur,Wise,Texas,33.227778,-97.59,0,,,,,,1,1963,1898,1965,,,,,,,,,,,,,,,,,,1
+RiceU,Rice University,RiceU,Houston,Harris,Texas,29.762778,-95.383056,1,,,,,,1,1891,1891,1912,,,,,,,,,,,,,,,,,,1
+RiceU,Rice University,RiceU,Dunellen,Middlesex,New Jersey,40.590231,-74.465595,0,,,,,,1,1891,1891,1912,,,,,,,,,,,,,,,,,,1
+SMU,Southern Methodist University,SMU,Dallas,Dallas,Texas,32.775833,-96.796667,1,,,,1,,,1911,1911,1915,,,,,,,,,,,,,,300000,,14,,2
+SMU,Southern Methodist University,SMU,Fort Worth,Tarrant,Texas,32.757358,-97.333181,0,1,,,1,,,1911,1911,1915,,,,,,,,,,,,,,500000,,4,,2
+SMU,Southern Methodist University,SMU,Georgetown,Williamson,Texas,30.651111,-97.681389,0,1,,,1,,,1911,1911,1915,,,,,,,,,,,,,,,,,,1
+TxAMU,Texas A&M University,TxAMU,Bryan,Brazos,Texas,30.665556,-96.366667,1,,1,,1,,,1871,1871,1876,,1,,1,,,,,,,,,,,,,,2
+TxAMU,Texas A&M University,TxAMU,Bellville,Austin,Texas,29.947222,-96.258611,0,,1,,1,,,1871,1871,1876,,1,,1,,,,,,,,,,,,,,2
+TxAMU,Texas A&M University,TxAMU,Kellum Springs,Grimes,Texas,30.6263,-96.0091,0,,1,,1,,,1871,1871,1876,,1,,1,,,,,,,,,,,,,,2
+TxAMU,Texas A&M University,TxAMU,Piedmont Springs,Grimes,Texas,30.5252,-96.1086,0,,1,,1,,,1871,1871,1876,,1,,1,,,,,,,,,,,,,,2
+TxAMU,Texas A&M University,TxAMU,San Antonio,Bexar,Texas,29.416667,-98.5,0,,1,,1,,,1871,1871,1876,,1,,1,,,,,,,,,,,,,,1
+TxAMU,Texas A&M University,TxAMU,Austin,Travis,Texas,30.266667,-97.733333,0,,1,,1,,,1871,1871,1876,,1,,1,,,,,,,,,,,,,,1
+TxAMU,Texas A&M University,TxAMU,Waco,McLennan,Texas,31.551389,-97.155833,0,,1,,1,,,1871,1871,1876,,1,,1,,,,,,,,,,,,,,1
+TxAMU,Texas A&M University,TxAMU,San Marcos,Hays,Texas,29.879444,-97.938889,0,,1,,1,,,1871,1871,1876,,1,,1,,,,,,,,,,,,,,1
+TxAMU,Texas A&M University,TxAMU,Tehuacana Hills,Limestone,Texas,31.7421,-96.5525,0,,1,,1,,,1871,1871,1876,,1,,1,,,,,,,,,,,,,,1
+TxCU,Texas Christian University,TxCU,Forth Worth,Tarrant,Texas,32.757358,-97.333181,1,,,,1,,,1910,1869,1911,,,,,,,,,,,,,,250000,,,,2
+TxCU,Texas Christian University,TxCU,Dallas,Dallas,Texas,32.775833,-96.796667,0,1,,,1,,,1910,1869,1911,,,,,,,,,,,,,,,,,,2
+TxCU,Texas Christian University,TxCU,Waco,McLennan,Texas,31.551389,-97.155833,0,1,,,1,,,1910,1869,1911,,,,,,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Lubbock,Lubbock,Texas,33.566667,-101.883333,1,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,150000,234000,,,,2
+TxT,Texas Tech,TxT,Snyder,Scurry,Texas,32.715556,-100.914444,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,2
+TxT,Texas Tech,TxT,Sweetwater,Nolan,Texas,32.468056,-100.407222,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,2
+TxT,Texas Tech,TxT,Floydada,Floyd,Texas,33.984444,-101.337778,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Plainview,Hale,Texas,34.191111,-101.718889,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Big Spring,Howard,Texas,32.243333,-101.475278,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Boerne,Kendall,Texas,29.794445,-98.731483,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Lampasas,Lampasas,Texas,31.065833,-98.183333,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Brady,McCulloch,Texas,31.132222,-99.341389,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Menard,Menard,Texas,30.919444,-99.784444,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Brownwood,Brown,Texas,31.708056,-98.9825,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Coleman,Coleman,Texas,31.827778,-99.425556,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Ballinger,Runnels,Texas,31.733333,-99.95,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Paint Rock,Concho,Texas,31.507778,-99.923333,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Miles,Runnels,Texas,31.598889,-100.1825,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,San Angelo,Tom Green,Texas,31.442778,-100.450278,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Midland,Midland,Texas,32,-102.1,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Stanton,Martin,Texas,32.130833,-101.791944,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Colorado City,Mitchell,Texas,32.396111,-100.862222,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Abilene,Taylor,Texas,32.45,-99.75,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Abilene,Jones,Texas,32.45,-99.75,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Buffalo Gap,Taylor,Texas,32.281111,-99.829167,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Clyde,Callahan,Texas,32.4,-99.5,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Cisco,Eastland,Texas,32.384722,-98.981389,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Seymore,Baylor,Texas,33.591667,-99.260833,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Munday,Knox,Texas,33.449167,-99.626111,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Haskell,Haskell,Texas,33.160278,-99.734444,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Stamford,Haskell,Texas,32.949167,-99.79,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Stamford,Jones,Texas,32.949167,-99.79,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Post,Garza,Texas,33.191667,-101.380556,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Wilson,Lynn,Texas,33.316944,-101.724167,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Crosbyton,Crosby,Texas,33.656667,-101.238889,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Spur,Dickens,Texas,33.477778,-100.856944,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Tulia,Swisher,Texas,34.535833,-101.758611,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Amarillo,Potter,Texas,35.199167,-101.845278,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Claude,Armstrong,Texas,35.1075,-101.364167,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Memphis,Hall,Texas,34.726667,-100.541667,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Quanah,Hardeman,Texas,34.295556,-99.741944,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+TxT,Texas Tech,TxT,Vernon,Wilbarger,Texas,34.151111,-99.290556,0,,1,,,,,1923,1923,1925,,1,,,1,,,,,,,,,,,,,1
+UTxA,University of Texas Austin,UTxA,Austin,Travis,Texas,30.266667,-97.733333,1,,1,,,,1,1881,1881,1883,,1,1,,,,,,,,,,,,,30913,1,2
+UTxA,University of Texas Austin,UTxA,Tyler,Smith,Texas,32.35,-95.3,0,,1,,,,1,1881,1881,1883,,1,1,,,,,,,,,,,,,18974,1,2
+UTxA,University of Texas Austin,UTxA,Thorp Spring,Hood,Texas,32.474,-97.8267,0,,1,,,,1,1881,1881,1883,,1,1,,,,,,,,,,,,,,,1
+UTxA,University of Texas Austin,UTxA,Caddo Grove,Johnson,Texas,,,0,,1,,,,1,1881,1881,1883,,1,1,,,,,,,,,,,,,,,1
+UTxA,University of Texas Austin,UTxA,Peak,Johnson,Texas,,,0,,1,,,,1,1881,1881,1883,,1,1,,,,,,,,,,,,,,,1
+UTxA,University of Texas Austin,UTxA,Lampasas,Lampasas,Texas,31.065833,-98.183333,0,,1,,,,1,1881,1881,1883,,1,1,,,,,,,,,,,,,,,1
+UTxA,University of Texas Austin,UTxA,Matagorda,Matagorda,Texas,28.690833,-95.9675,0,,1,,,,1,1881,1881,1883,,1,1,,,,,,,,,,,,,,,1
+UTxA,University of Texas Austin,UTxA,Waco,McLennan,Texas,31.551389,-97.155833,0,,1,,,,1,1881,1881,1883,,1,1,,,,,,,,,,,,,,,1
+UTxA,University of Texas Austin,UTxA,Williams Ranch,Mills,Texas,31.498056,-98.639444,0,,1,,,,1,1881,1881,1883,,1,1,,,,,,,,,,,,,,,1
+UTxA,University of Texas Austin,UTxA,Albany,Shackelford,Texas,32.726944,-99.294444,0,,1,,,,1,1881,1881,1883,,1,1,,,,,,,,,,,,,,,1
+UTxA,University of Texas Austin,UTxA,Graham,Young,Texas,33.100833,-98.579167,0,,1,,,,1,1881,1881,1883,,1,1,,,,,,,,,,,,,,,1
+UTxMB,University of Texas Medical Branch,UTxMB,Galveston,Galveston,Texas,29.281111,-94.825833,1,,1,,,,,1881,1881,1890,,1,,,1,,,,,,,,,,,29741,1,2
+UTxMB,University of Texas Medical Branch,UTxMB,Houston,Harris,Texas,29.762778,-95.383056,0,,1,,,,,1881,1881,1890,,1,,,1,,,,,,,,,,,12586,1,2
+USAFA,US Air Force Academy,USAFA,Colorado Springs,El Paso,Colorado,38.833333,-104.816667,1,,,1,,,,1954,1954,1955,1959,1,,,,,,,1,,,,,,,,,2
+USAFA,US Air Force Academy,USAFA,Alton,Madison,Illinois,38.900556,-90.159722,0,,,1,,,,1954,1954,1955,1959,1,,,,,,,1,,,,,,,,,2
+USAFA,US Air Force Academy,USAFA,Lake Geneva,Walworth,Wisconsin,42.5925,-88.434444,0,,,1,,,,1954,1954,1955,1959,1,,,,,,,1,,,,,,,,,2
+USCGA,US Coast Guard Academy,USCGA,New London,New London,Connecticut,41.355556,-72.099444,1,,,,,,,1910,1910,1913,,1,,,,,,,1,,,,,,,,,1
+USGCA,US Coast Guard Academy,USGCA,Arundel Cove,Anne Arundel,Maryland,39.199722,-76.567222,0,1,,,,,,1910,1910,1913,,1,,,,,,,1,,,,,,,,,1
+USMMA,US Merchant Marine Academy,USMMA,Kings Point,Nassau,New York,40.815556,-73.737778,1,,,1,1,,,1941,1936,1943,1945,1,,,,,,,1,,,,,,1,,,2
+USMMA,US Merchant Marine Academy,USMMA,New Bedford,Bristol,Massachusetts,41.636111,-70.934722,0,,,1,1,,,1941,1936,1943,1945,1,,,,,,,1,,,,,,1,,,2
+USMMA,US Merchant Marine Academy,USMMA,Groton,New London,Connecticut,41.3485,-72.0775,0,,,1,1,,,1941,1936,1943,1945,1,,,,,,,1,,,,,,,,,1
+USMMA,US Merchant Marine Academy,USMMA,Mystic,New London,Connecticut,41.354167,-71.966389,0,,,1,1,,,1941,1936,1943,1945,1,,,,,,,1,,,,,,,,,1
+USMMNO,US Merchant Marine Training School New Orleans Region,USMMNO,Pass Christian,Harrison,Mississippi,30.324444,-89.247222,1,,,,,1,,1942,1942,1942,,1,,,,,,,1,,,,,,,,,1
+USMMNO,US Merchant Marine Training School New Orleans Region,USMMNO,New Orleans,Orleans,Louisiana,29.95,-90.066667,0,,,,,1,,1942,1942,1942,,1,,,,,,,1,,,,,,,,,1
+USMA,United States Military Academy,USMA,West Point,Orange,New York,41.383333,-73.966667,1,,,1,,,,1801,1802,1802,,1,,,,,,,1,,,,,,,,,1
+USMA,United States Military Academy,USMA,Carlisle,Cumberland,Pennsylvania,40.2025,-77.195,0,,,1,,,,1801,1802,1802,,1,,,,,,,1,,,,,,,,,1
+USMA,United States Military Academy,USMA,Springfield,Hampden,Massachusetts,42.101389,-72.590278,0,,,1,,,,1801,1802,1802,,1,,,,,,,1,,,,,,,,,1
+USNA,US Naval Academy,USNA,Annapolis,Anne Arundel,Maryland,38.972944,-76.501158,1,,1,1,,,,1845,1845,1845,,1,,,,,,,1,,,,,,,,,1
+USNA,US Naval Academy,USNA,Philadelphia,Philadelphia,Pennsylvania,39.95,-75.166667,0,,1,1,,,,1845,1845,1845,,1,,,,,,,1,,,,,,,,,1
+USNWC,US Naval War College,USNWC,Newport,Newport,Rhode Island,41.488056,-71.3125,1,,,1,,,,1884,1884,1885,,1,,,,,,,1,,,,,,,,,1
+USNWC,US Naval War College,USNWC,Boston,Suffolk,Massachusetts,42.358056,-71.063611,0,,,1,,,,1884,1884,1885,,1,,,,,,,1,,,,,,,,,1
+USNWC,US Naval War College,USNWC,New York City,New York City,New York,40.7127,-74.0059,0,,,1,,,,1884,1884,1885,,1,,,,,,,1,,,,,,,,,1
+USNWC,US Naval War College,USNWC,Annapolis,Anne Arundel,Maryland,38.972944,-76.501158,0,,,1,,,,1884,1884,1885,,1,,,,,,,1,,,,,,,,,1
+USNWC,US Naval War College,USNWC,Washington,Washington,District of Columbia,38.904722,-77.016389,0,,,1,,,,1884,1884,1885,,1,,,,,,,1,,,,,,,,,1
+UtSU,Utah State University,UtSU,Logan,Cache,Utah,41.737778,-111.830833,1,,1,,,,,1888,1888,1890,,1,,1,,,,,,1,Land Grant College,,25000,,,,,2
+UtSU,Utah State University,UtSU,,Utah,Utah,40.12,-111.67,0,,1,,,,,1888,1888,1890,,1,,1,,,,,,1,Asylum,,25000,5000,,,,1
+UtSU,Utah State University,UtSU,,Weber,Utah,41.3,-111.92,0,,1,,,,,1888,1888,1890,,1,,1,,,,,,1,Reform School,75000,25000,,,,,2
+UVt1,University of Vermont,UVt,Burlington,Chittenden,Vermont,44.475833,-73.211944,1,,1,,,,,1791,1791,,,1,1,,,,,,,,,,,4000,,89,,1
+UVt1,University of Vermont,UVt,Rutland,Rutland,Vermont,43.608889,-72.979722,0,,1,,,,,1791,1791,,,1,1,,,,,,,,,,,,,24,,1
+UVt1,University of Vermont,UVt,Manchester,Bennington,Vermont,43.140833,-73.08,0,,1,,,,,1791,1791,,,1,1,,,,,,,,,,,,,5,,1
+UVt1,University of Vermont,UVt,Williamstown,Orange,Vermont,44.116111,-72.540833,0,,1,,,,,1791,1791,,,1,1,,,,,,,,,,,,,5,,1
+UVt1,University of Vermont,UVt,Danville,Caledonia,Vermont,44.416667,-72.133333,0,,1,,,,,1791,1791,,,1,1,,,,,,,,,,,,,1,,1
+UVt1,University of Vermont,UVt,Castelton,Rutland,Vermont,43.625556,-73.193333,0,,1,,,,,1791,1791,,,1,1,,,,,,,,,,,,,1,,1
+UVt1,University of Vermont,UVt,Berlin,Washington,Vermont,44.215278,-72.586111,0,,1,,,,,1791,1791,,,1,1,,,,,,,,,,,,,1,,1
+UVt2,University of Vermont,UVt,Burlington,Chittenden,Vermont,44.475833,-73.211944,1,,1,1,,,,1865,1791,,,1,1,1,,,,,,,,,,,,,,1
+UVt2,University of Vermont,UVt,Middlebury,Addison,Vermont,44.001944,-73.145556,0,1,1,1,,,,1865,1791,,,1,1,1,,,,,,,,,,,,,,1
+UVt2,University of Vermont,UVt,Northfield,Washington,Vermont,44.141111,-72.664444,0,1,1,1,,,,1865,1791,,,1,1,1,,,,,,,,,,,,,,1
+ChNewU,Christopher Newport University,ChNewU,Newport News,,Virginia,37.070833,-76.484444,1,,,,1,,,1960,1960,1961,,1,,,,,,,,,,,,,,,,1
+ChNewU,Christopher Newport University,ChNewU,Hampton,,Virginia,37.034722,-76.36,0,,,,1,,,1960,1960,1961,,1,,,,,,,,,,,,,,,,1
+CWandM,College of William and Mary,CWandM,Williamsburg,York,Virginia,37.270833,-76.706944,1,,,,,,1,1693,1693,1697,,1,,,,,,,,,,,,,,,,1
+CWandM,College of William and Mary,CWandM,Henrico,Henrico,Virginia,,,0,,,,,,1,1693,1693,1697,,1,,,,,,,,,,,,,,,,1
+CWandM,College of William and Mary,CWandM,Charles City,Charles City,Virginia,37.343611,-77.071111,0,,,,,,1,1693,1693,1697,,1,,,,,,,,,,,,,,,,1
+RMC,Randolph-Macon College,RMC,Ashland,Hanover,Virginia,37.759444,-77.477222,1,,,,,,,1868,1830,1868,,,,,,,,,,,,,,,,,,1
+RMC,Randolph-Macon College,RMC,Petersburg,Dinwiddie,Virginia,37.212778,-77.400278,0,,,,,,,1868,1830,1868,,,,,,,,,,,,,,,,,,1
+RMC,Randolph-Macon College,RMC,Richmond,Chesterfield,Virginia,37.533333,-77.466667,0,,,,,,,1868,1830,1868,,,,,,,,,,,,,,,,,,1
+RMC,Randolph-Macon College,RMC,Lynchburg,,Virginia,37.403611,-79.17,0,,,,,,,1868,1830,1868,,,,,,,,,,,,,,,,,,1
+RMC,Randolph-Macon College,RMC,Boydton,Mecklenburg,Virginia,36.6676,-78.3875,0,,,,,,,1868,1830,1868,,,,,,,,,,,,,,,,,,1
+UVa,University of Virginia,UVa,Charlottesville,Albemarle,Virginia,38.03,-78.478889,1,,1,1,,,,1818,1818,1825,,1,1,,,,,,,,,,,,1,,,1
+UVa,University of Virginia,UVa,Lexington,Rockbridge,Virginia,37.783889,-79.442778,0,1,1,1,,,,1818,1818,1825,,1,1,,,,,,,,,,,,,,,1
+UVa,University of Virginia,UVa,Staunton,Augusta,Virginia,38.158056,-79.076389,0,,1,1,,,,1818,1818,1825,,1,1,,,,,,,,,,,,,,,1
+VaT,Virginia Polytechnic Institute,VaT,Blacksburg,Montgomery,Virginia,37.23,-80.417778,1,1,1,1,,,,1872,1872,,,1,,1,,,,,,,,,20000,,1,,3,2
+VaT,Virginia Polytechnic Institute,VaT,Charlottesville,Albemarle,Virginia,38.03,-78.478889,0,1,1,1,,,,1872,1872,,,1,,1,,,,,,,,,,,1,,3,2
+VaT,Virginia Polytechnic Institute,VaT,Lexington,Rockbridge,Virginia,37.783889,-79.442778,0,1,1,1,,,,1872,1872,,,1,,1,,,,,,,,,,,1,,3,2
+VaT,Virginia Polytechnic Institute,VaT,Richmond,Chesterfield,Virginia,37.533333,-77.466667,0,1,1,1,,,,1872,1872,,,1,,1,,,,,,,,,,,1,,3,1
+VaT,Virginia Polytechnic Institute,VaT,Salem,Roanoke,Virginia,37.286667,-80.055833,0,1,1,1,,,,1872,1872,,,1,,1,,,,,,,,,,,1,,3,1
+VaT,Virginia Polytechnic Institute,VaT,Emory,Washington,Virginia,36.788611,-81.828611,0,1,1,1,,,,1872,1872,,,1,,1,,,,,,,,,,,1,,3,1
+VaT,Virginia Polytechnic Institute,VaT,Ashland,Hanover,Virginia,37.759444,-77.477222,0,1,1,1,,,,1872,1872,,,1,,1,,,,,,,,,,,1,,3,1
+VaT,Virginia Polytechnic Institute,VaT,Hampton Sydney,Prince Edward,Virginia,37.034722,-76.36,0,1,1,1,,,,1872,1872,,,1,,1,,,,,,,,,,,1,,3,1
+VaT,Virginia Polytechnic Institute,VaT,New Market,Shenandoah,Virginia,38.644444,-78.673333,0,1,1,1,,,,1872,1872,,,1,,1,,,,,,,,,,,1,,3,1
+VaT,Virginia Polytechnic Institute,VaT,Fredericksburg,Fredericksburg City,Virginia,38.301806,-77.470833,0,1,1,1,,,,1872,1872,,,1,,1,,,,,,,,,,,1,,3,1
+VMI,Virginia Military Institute,VMI,Lexington,Rockbridge,Virginia,37.783889,-79.442778,1,,,1,,,,1836,1836,1839,,1,,,,,,,1,,,,,,1,,,1
+VMI,Virginia Military Institute,VMI,,Chesterfield,Virginia,37.38,-77.59,0,,,1,,,,1836,1836,1839,,1,,,,,,,1,,,,,,1,,,1
+UWa,University of Washington,UWa,Seattle,King,Washington,47.609722,-122.333056,1,,1,,,,,1861,1861,1861,1876,1,1,,,,,,,1,Public University,,,,1,,,1
+UWa,University of Washington,UWa,,Lewis,Washington,46.58,-122.4,0,,1,,,,,1861,1861,1861,1876,1,1,,,,,,,,,,,,1,,,1
+UWa,University of Washington,UWa,Port Townsend,Jefferson,Washington,48.116389,-122.775278,0,,1,,,,,1861,1861,1861,1876,1,1,,,,,,,1,Land Office,,,,,,,1
+UWa,University of Washington,UWa,Vancouver,Clark,Washington,45.633333,-122.6,0,,1,,,,,1861,1861,1861,1876,1,1,,,,,,,1,Capital,,,,,,,1
+UWa,University of Washington,UWa,Walla Walla,Walla Walla,Washington,46.065,-118.330278,0,,1,,,,,1861,1861,1861,1876,1,1,,,,,,,1,Penitentiary,,,,,,,1
+WaSU,Washington State University,WaSU,Pullman,Whitman,Washington,46.733333,-117.166667,1,,1,,,,,1891,1890,1892,,1,,1,,,,,,,,,,,,,2,2
+WaSU,Washington State University,WaSU,Yakima,Yakima,Washington,46.6,-120.5,0,,1,,,,,1891,1890,1892,,1,,1,,,,,,,,,,,,,2,2
+WVT,West Virginia Institute of Technology,WVT,Montgomery,Fayette,West Virginia,38.18,-81.326667,1,1,1,,,1,,1931,1895,1928,1929,1,,,,,,,,,,,50000,2000,1,,,1
+WVT,West Virginia Institute of Technology,WVT,Mt. Hope,Fayette,West Virginia,37.8925,-81.167778,0,,1,,,1,,1931,1895,1928,1929,1,,,,,,,,,,,,300000,,,,1
+WVT,West Virginia Institute of Technology,WVT,Charleston,Kanawha,West Virginia,38.347222,-81.633333,0,,1,,,1,,1931,1895,1928,1929,1,,,,,,,,,,,,,,,,1
+WVU,West Virginia University,WVU,Morgantown,Monongalia,West Virginia,39.633611,-79.950556,1,1,1,,,,,1867,1867,1867,,1,1,1,,,,,,1,Public University,,,51000,1,,,2
+WVU,West Virginia University,WVU,Frankford,Greenbrier,West Virginia,37.925,-80.384444,0,,1,,,,,1867,1867,1867,,1,1,1,,,,,,,,,,,,,,2
+WVU,West Virginia University,WVU,Charleston,Kanawha,West Virginia,38.347222,-81.633333,0,,1,,,,,1867,1867,1867,,1,1,1,,,,,,1,Capital,,,,,,,2
+WVU,West Virginia University,WVU,West Liberty,Ohio,West Virginia,40.165556,-80.594722,0,,1,,,,,1867,1867,1867,,1,1,1,,,,,,,,,,,,,,1
+WVU,West Virginia University,WVU,Point Pleasant,Mason,West Virginia,38.8575,-82.128611,0,,1,,,,,1867,1867,1867,,1,1,1,,,,,,,,,,,,,,1
+WVU,West Virginia University,WVU,Flemington,Taylor,West Virginia,39.266667,-80.129444,0,,1,,,,,1867,1867,1867,,1,1,1,,,,,,,,,,,,,,1
+WVU,West Virginia University,WVU,Bethany,Brooke,West Virginia,40.206389,-80.559722,0,,1,,,,,1867,1867,1867,,1,1,1,,,,,,,,,,,,,,1
+WVU,West Virginia University,WVU,Greenwood,Doddridge,West Virginia,39.274722,-80.890556,0,,1,,,,,1867,1867,1867,,1,1,1,,,,,,,,,,,,,,1
+WVU,West Virginia University,WVU,Harrisville,Ritchie,West Virginia,39.21,-81.050833,0,,1,,,,,1867,1867,1867,,1,1,1,,,,,,,,,,,,,,1
+WVU,West Virginia University,WVU,Philippi,Barbour,West Virginia,39.151667,-80.043333,0,,1,,,,,1867,1867,1867,,1,1,1,,,,,,,,,,,,,,1
+WVU,West Virginia University,WVU,Ravenswood,Jackson,West Virginia,38.953056,-81.761389,0,,1,,,,,1867,1867,1867,,1,1,1,,,,,,,,,,,,,,1
+WVU,West Virginia University,WVU,Spencer,Roane,West Virginia,38.801667,-81.351667,0,,1,,,,,1867,1867,1867,,1,1,1,,,,,,,,,,,,,,1
+WVU,West Virginia University,WVU,Moundsville,Marshall,West Virginia,39.921389,-80.739444,0,,1,,,,,1867,1867,1867,,1,1,1,,,,,,1,Penitentiary,,,,,,,1
+WVU,West Virginia University,WVU,Weston,Lewis,West Virginia,39.041944,-80.47,0,,1,,,,,1867,1867,1867,,1,1,1,,,,,,1,Asylum,,,,,,,1
+UWi1,University of Wisconsin,UWi,Madison,Dane,Wisconsin,43.066667,-89.4,1,,1,,,,,1838,1838,1851,1854,1,1,,,,,,,,,,,,,,,1
+UWi1,University of Wisconsin,UWi,Fond du Lac,Fond du Lac,Wisconsin,43.766667,-88.45,0,,1,,,,,1838,1838,1851,1854,1,1,,,,,,,,,,,,,,,1
+UWi1,University of Wisconsin,UWi,Belmont,Lafayette,Wisconsin,42.758056,-90.365,0,,1,,,,,1838,1838,1851,1854,1,1,,,,,,,,,,,,,,,1
+UWi1,University of Wisconsin,UWi,Four Lakes,Dane,Wisconsin,,,0,,1,,,,,1838,1838,1851,1854,1,1,,,,,,,,,,,,,,,1
+UWi2,University of Wisconsin,UWi,Madison,Dane,Wisconsin,43.066667,-89.4,1,1,1,,,,,1866,1838,1851,1854,1,1,1,,,,,,,,,,40000,1,49,3,2
+UWi2,University of Wisconsin,UWi,Ripon,Fond du Lac,Wisconsin,43.845,-88.839722,0,1,1,,,,,1866,1838,1851,1854,1,1,1,,,,,,,,,,,1,21,3,2
+UWy,University of Wyoming,UWy,Laramie,Albany,Wyoming,41.316667,-105.583333,1,,1,,,,,1886,1886,1887,,1,1,1,,,,,,1,Public University,,,,,,,2
+UWy,University of Wyoming,UWy,Cheyenne,Laramie,Wyoming,41.145556,-104.801944,0,,1,,,,,1886,1886,1887,,1,1,1,,,,,,1,Capital,,,,,,,2
+UWy,University of Wyoming,UWy,Evanston,Uinta,Wyoming,41.263333,-110.964722,0,,1,,,,,1886,1886,1887,,1,1,1,,,,,,1,Asylum,,,,,,,2
